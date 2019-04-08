@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/180117447.svg)](https://zenodo.org/badge/latestdoi/180117447)
+
 # relink-copy
 A copy of the original ReLink Tool and Data by Wu et al. [1]. The [link](http://bugcenter.googlecode.com/files/ReLink.zip) on the [homepage shared](http://www.cse.ust.hk/~scc/ReLink.htm) in the paper to the data is currently broken, this is a (hopefully complete) local copy I had of the data.
 
