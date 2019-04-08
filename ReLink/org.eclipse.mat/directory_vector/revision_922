@@ -1,0 +1,1 @@
+318989: proposal for extension: resolver for jruby share project "org.eclipse.mat.jruby" into "https://dev.eclipse.org/svnroot/tools/org.eclipse.mat" share project "org.eclipse.mat.jruby.resolver" into "https://dev.eclipse.org/svnroot/tools/org.eclipse.mat" ---- added : /trunk/plugins/org.eclipse.mat.jruby added : /trunk/plugins/org.eclipse.mat.jruby.resolver   922 922 922 922

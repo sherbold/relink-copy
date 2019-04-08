@@ -1,0 +1,1 @@
+minor bugs in generating error messages for oql comparison operations ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/oql/compiler/operation.java   370 370 370 370

@@ -1,0 +1,1 @@
+support multiple snapshots in query arguments ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/internal/snapshot/snapshotargument.java modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/internal/snapshot/snapshotquerycontext.java   (snapshot argument ) (snapshot query context ) 212 212 212 212

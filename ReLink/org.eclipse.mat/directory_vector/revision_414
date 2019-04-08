@@ -1,0 +1,1 @@
+handle corruptdataexceptions better ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/messages.java modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/messages.properties   (corrupt data exceptions ) (dtfj index builder ) 414 414 414 414

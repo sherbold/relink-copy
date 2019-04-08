@@ -1,0 +1,1 @@
+avoid concurrentmodificationexception with corrupt phd files ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java   (concurrent modification exception ) (dtfj index builder ) 402 402 402 402

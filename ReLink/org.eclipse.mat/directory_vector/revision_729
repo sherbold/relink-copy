@@ -1,0 +1,1 @@
+310439 use unflagged constant for the @argument flag annotation. ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/internal/acquire/heapdumpproviderregistry.java modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/internal/acquire/vminfodescriptor.java   (heap dump provider registry ) (vm info descriptor ) 729 729 729 729

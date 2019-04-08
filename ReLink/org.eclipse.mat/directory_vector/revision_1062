@@ -1,0 +1,1 @@
+337645 use preferencestore for filedialogeditor ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/query/arguments/fileopendialogeditor.java   (preference store ) (file dialog editor ) (file open dialog editor ) 1062 1062 1062 1062

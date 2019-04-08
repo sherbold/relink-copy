@@ -1,0 +1,1 @@
+318288 get batch mode scripts working better - start getting right line delimiters ---- modified : /trunk/features/org.eclipse.mat.ui.rcp.feature/rootfiles/linux/parseheapdump.sh modified : /trunk/features/org.eclipse.mat.ui.rcp.feature/rootfiles//parseheapdump.bat   (parse heap dump ) (parse heap dump ) ( win ) ( 32 ) 839 839 839 839

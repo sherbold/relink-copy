@@ -1,0 +1,1 @@
+work around to avoid undefined symbol: gdk_screen_get_resolution with tests  ---- modified : /trunk/org.eclipse.mat.releng.athena/testing.properties   484 484 484 484

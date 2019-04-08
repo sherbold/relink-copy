@@ -1,0 +1,1 @@
+workaround: npe while rendering label in pie charts (see   ---- modified : /trunk/plugins/org.eclipse.mat.chart/src/org/eclipse/mat/impl/chart/chartbuilder.java   (chart builder ) 334 334 334 334

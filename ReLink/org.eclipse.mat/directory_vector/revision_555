@@ -1,0 +1,1 @@
+301228 allow dtfj parser to create variable sized simple objects ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java   (dtfj index builder ) 555 555 555 555

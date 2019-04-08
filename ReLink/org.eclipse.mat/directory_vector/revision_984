@@ -1,0 +1,1 @@
+318989 - remove jruby preference page (not existing any longer) from the list of allowed preference pages ---- modified : /trunk/plugins/org.eclipse.mat.ui.rcp/src/org/eclipse/mat/ui/rcp/actions/openpreferenceaction.java   (open preference action ) 984 984 984 984

@@ -1,0 +1,1 @@
+remove bundle required execution environment (bree) from non-java help bundle ---- modified : /trunk/plugins/org.eclipse.mat.ui.help/meta-inf/manifest.mf modified : /trunk/plugins/org.eclipse.mat.ui.help/build.properties   358 358 358 358

@@ -1,0 +1,1 @@
+try updating org.eclipse.test and org.eclipse.ant.optional.junit so that junit 4 tests are run ---- modified : /trunk/org.eclipse.mat.releng.athena/maps/build.map   485 485 485 485

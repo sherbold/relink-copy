@@ -1,0 +1,1 @@
+improve: performance of inbound index writer ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/index/indexwriter.java   (index writer ) 248 248 248 248

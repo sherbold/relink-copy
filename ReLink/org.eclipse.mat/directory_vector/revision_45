@@ -1,0 +1,1 @@
+fall-back if system properties stored in other variable (->ibm) ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/query/systempropertiesquery.java   (system properties query ) 45 45 45 45

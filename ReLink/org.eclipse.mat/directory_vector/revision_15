@@ -1,0 +1,1 @@
+fix in the sorting algorithm used during parsing. as a result of an error inside the sorting in rare cases the inbound references index was not properly built. as an end effect one could see less instances from certain classes than the really existing. ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/collect/arrayutils.java   (array utils ) 15 15 15 15

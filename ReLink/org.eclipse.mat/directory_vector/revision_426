@@ -1,0 +1,1 @@
+294350 stackoverflowerror in arrayutils.hybridsort  - allow signed keys for future flexibility ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/collect/arrayutils.java modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/collect/sorttest.java   (stack overflow error ) (array utils ) (array utils ) (sort test ) 426 426 426 426

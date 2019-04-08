@@ -1,0 +1,1 @@
+undo and redo in notes view are global actions and react on the defined shortcuts- key listener is removed ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/views/notesview.java   (notes view ) 239 239 239 239

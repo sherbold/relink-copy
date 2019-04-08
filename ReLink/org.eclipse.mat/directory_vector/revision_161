@@ -1,0 +1,1 @@
+fix for collectionfillratioquery.java for null tables ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/collections/collectionfillratioquery.java   (collection fill ratio query ) (collection fill ratio query ) 161 161 161 161

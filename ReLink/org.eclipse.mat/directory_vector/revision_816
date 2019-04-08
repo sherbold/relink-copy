@@ -1,0 +1,1 @@
+315580 select whole row for heap dump details pane - for accessibility. ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/views/snapshotoutlinepage.java   (snapshot outline page ) 816 816 816 816

@@ -1,0 +1,1 @@
+324977 work around focus problems with file dialog and wizards. ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/editor/heapeditor.java   (heap editor ) 915 915 915 915

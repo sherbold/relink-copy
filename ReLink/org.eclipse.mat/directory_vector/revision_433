@@ -1,0 +1,1 @@
+269608 avoid locale sensitivity problems with upper/lower case ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/inspectionassert.java modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/internal/snapshot/argumentparser.java   (inspection assert ) (argument parser ) 433 433 433 433

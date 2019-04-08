@@ -1,0 +1,1 @@
+321435 fix column header font size for query argument wizard ---- modified : /branches/ .x/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/query/arguments/argumentstable.java   (arguments table ) 879 879 879 879

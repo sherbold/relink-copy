@@ -1,0 +1,1 @@
+[278367] add the file encoding to the generated html page for reports. ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/report/internal/pagesnippets.java modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/report/internal/resultrenderer.java   (page snippets ) (result renderer ) 391 391 391 391

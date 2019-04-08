@@ -1,0 +1,1 @@
+[280473] added dynamic import package so that the rcp can resolve optional imports (workaround) ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/meta-inf/manifest.mf   360 360 360 360

@@ -1,0 +1,1 @@
+[249654] enhancement request: save value to file for binary types ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/actions/savevalueasquery.java   (save value as query ) 166 166 166 166

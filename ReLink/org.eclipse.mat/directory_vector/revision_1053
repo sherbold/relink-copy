@@ -1,0 +1,1 @@
+334383 avoid stale snapshot in inspector view ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/views/inspector/fieldslabelprovider.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/views/inspector/inspectorview.java   (fields label provider ) (inspector view ) 1053 1053 1053 1053

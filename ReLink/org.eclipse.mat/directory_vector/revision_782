@@ -1,0 +1,1 @@
+move ui capabilities plugin to the proper svn location ---- deleted : /plugins/org.eclipse.mat.ui.capabilities added : /trunk/plugins/org.eclipse.mat.ui.capabilities (copy from path: /plugins/org.eclipse.mat.ui.capabilities, revision,     782 782 782 782

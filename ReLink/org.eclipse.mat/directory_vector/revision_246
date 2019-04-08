@@ -1,0 +1,1 @@
+[256154] new query: waste in char[] ---- modified : /trunk/plugins/org.eclipse.mat.api/plugin.xml added : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/wasteinchararraysquery.java   (waste in char arrays query ) 246 246 246 246

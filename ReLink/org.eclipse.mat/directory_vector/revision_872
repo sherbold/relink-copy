@@ -1,0 +1,1 @@
+321013 allow automatic opening of acquired javacore dumps ---- modified : /branches/ .x/plugins/org.eclipse.mat.ibmdumps/src/org/eclipse/mat/ibmvm/acquire/ibmjavadumpprovider.java   (ibm java dump provider ) 872 872 872 872

@@ -1,0 +1,1 @@
+321325: remove "beta" from the name of the bundle registry query  fix in /trunk ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/osgi/annotations.properties   877 877 877 877

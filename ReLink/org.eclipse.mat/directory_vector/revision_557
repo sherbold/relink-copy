@@ -1,0 +1,1 @@
+add .dmp.zip to the list of file extensions recognized for regression testing ---- modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/regression/regtestutils.java   (reg test utils ) 557 557 557 557

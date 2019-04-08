@@ -1,0 +1,1 @@
+chain parser exception when only one parser is tried rather than using multistatus ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/snapshotfactoryimpl.java modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/messages.properties   (snapshot factory impl ) 595 595 595 595

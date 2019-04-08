@@ -1,0 +1,1 @@
+229449 make sure help text follows the acquire selection ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/acquire/providerargumentstable.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/acquire/providerargumentswizzardpage.java   (provider arguments table ) (provider arguments wizzard page ) 593 593 593 593

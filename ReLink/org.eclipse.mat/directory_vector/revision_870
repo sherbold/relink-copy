@@ -1,0 +1,1 @@
+321008: change bundle version numbers for the  .1 release https://bugs.eclipse.org/bugs/show_bug.cgi?id=321008 fix mat.product with the new version info ---- modified : /branches/ .x/plugins/org.eclipse.mat.ui.rcp/mat.product   870 870 870 870

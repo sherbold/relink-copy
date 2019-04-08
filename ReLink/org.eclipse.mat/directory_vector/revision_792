@@ -1,0 +1,1 @@
+bug 312594: snapshotimpl instance kept by executionjob after closing the editor  cleanup the references from the executionjob after it is executed ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/queryexecution.java   (snapshot impl ) (execution job ) (execution job ) (query execution ) 792 792 792 792

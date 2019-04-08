@@ -1,0 +1,1 @@
+more lenient parsing of hprof dumps (converted exception into warning message because some dumps can be parsed okay) ---- modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/parser.java modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/parser.java   196 196 196 196

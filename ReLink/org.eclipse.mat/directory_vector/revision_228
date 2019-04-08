@@ -1,0 +1,1 @@
+fix: format the difference / intersecting histograms with +/- signs ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/snapshot/histogram.java   228 228 228 228

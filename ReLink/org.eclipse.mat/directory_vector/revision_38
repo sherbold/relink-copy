@@ -1,0 +1,1 @@
+enabled "org.eclipse.jdt.ui.javaactionset" in memory analyzer perspective ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/perspective.java   (java action set ) 38 38 38 38

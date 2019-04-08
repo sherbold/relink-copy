@@ -1,0 +1,1 @@
+avoid generating negative hash index when hashcode() is integer.min_value ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/collect/hashmapobjectlong.java   (hash map object long ) 304 304 304 304

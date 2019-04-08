@@ -1,0 +1,1 @@
+294350 stackoverflowerror in arrayutils.hybridsort  - limit recursion depth by looping and add tests ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/collect/arrayutils.java added : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/collect/sorttest.java   (stack overflow error ) (array utils ) (array utils ) (sort test ) 425 425 425 425

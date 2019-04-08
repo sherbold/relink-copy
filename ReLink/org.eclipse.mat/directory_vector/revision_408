@@ -1,0 +1,1 @@
+add objectid to pie slice for leak hunter ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/leakhunterquery.java   (leak hunter query ) 408 408 408 408

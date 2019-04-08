@@ -1,0 +1,1 @@
+334505 avoid message from compare basket with disposed table when closing a compare basket or mat. ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/compare/comparebasketview.java   (compare basket view ) 1028 1028 1028 1028

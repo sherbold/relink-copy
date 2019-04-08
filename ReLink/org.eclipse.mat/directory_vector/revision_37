@@ -1,0 +1,1 @@
+completely unload temporary index once done (free mem) ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/index/indexreader.java modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/index/indexwriter.java   (index reader ) (index writer ) 37 37 37 37

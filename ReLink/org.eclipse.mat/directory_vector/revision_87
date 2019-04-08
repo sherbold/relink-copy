@@ -1,0 +1,1 @@
+added org.eclipse.mat.jdt plugin (open source file) to feature (to be included into the build) ---- modified : /trunk/features/org.eclipse.mat.feature/feature.xml modified : /trunk/plugins/org.eclipse.mat.jdt/src/org/eclipse/mat/jdt/opensourcefilequery.java   (open source file query ) 87 87 87 87

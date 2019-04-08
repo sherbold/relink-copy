@@ -1,0 +1,1 @@
+322121: default size of column in acquire dialog is too small fix in /branches/ .x/ ---- modified : /branches/ .x/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/acquire/acquiredialog.java   (acquire dialog ) 889 889 889 889

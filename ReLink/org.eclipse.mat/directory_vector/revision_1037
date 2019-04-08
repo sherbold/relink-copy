@@ -1,0 +1,1 @@
+make running findbugs plugin optional  using $additionalplugins one can specify from outsite additional goals to be executed by mvn  ---- modified : /trunk/build.sh   1037 1037 1037 1037

@@ -1,0 +1,1 @@
+export to csv fixed: limit is taken into the account if it is > 0, otherwise the whole result is exported ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/report/internal/csvoutputter.java   (csv outputter ) 163 163 163 163

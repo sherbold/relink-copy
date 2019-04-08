@@ -1,0 +1,1 @@
+java -jar -Xmx1400m ReLink.jar data/openintents/bugData.txt data/openintents/bugCommentData.txt data/openintents/changeLogs.txt openintents -g data/openintents/links.txt

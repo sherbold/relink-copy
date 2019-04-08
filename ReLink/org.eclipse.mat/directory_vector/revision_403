@@ -1,0 +1,1 @@
+fix stringindexoutofboundsexception with empty class name and fix conversion of dtfj to mat class names ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java   (string index out of bounds exception ) (dtfj index builder ) 403 403 403 403

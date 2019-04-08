@@ -1,0 +1,1 @@
+fix: escape separator char and quotes in cvs export files ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/report/internal/csvoutputter.java   (csv outputter ) 234 234 234 234

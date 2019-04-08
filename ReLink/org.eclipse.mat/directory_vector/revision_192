@@ -1,0 +1,1 @@
+fixed handling of progresslistener cancel operation for bundle explorer ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/osgi/model/equinoxbundlereader.java   (progress listener ) (equinox bundle reader ) 192 192 192 192

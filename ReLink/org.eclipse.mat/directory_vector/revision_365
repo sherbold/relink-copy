@@ -1,0 +1,1 @@
+avoid problem with thread stacks with <unknown> thread ids ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/threadstackhelper.java   (thread stack helper ) 365 365 365 365

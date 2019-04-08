@@ -1,0 +1,1 @@
+327433 fix findbugs warning in code for cancelling operation found in bug 332852 ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/classloaderexplorerquery.java   (find bugs ) (class loader explorer query ) 986 986 986 986

@@ -1,0 +1,1 @@
+299283 allow parser file types and extensions to be determined dynamically ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/util/registryreader.java   (registry reader ) 510 510 510 510

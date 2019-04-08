@@ -1,0 +1,1 @@
+[256248] huge object arrays are slow to view in the object inspector ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/views/inspector/lazyfields.java   (lazy fields ) 190 190 190 190

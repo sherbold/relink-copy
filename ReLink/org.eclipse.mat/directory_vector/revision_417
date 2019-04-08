@@ -1,0 +1,1 @@
+avoid null pointer exception with partially corrupt dump. ---- modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/parser.java   417 417 417 417

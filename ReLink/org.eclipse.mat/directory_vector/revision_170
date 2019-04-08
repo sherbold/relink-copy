@@ -1,0 +1,1 @@
+removed reference to the heap dump when the editor is closed ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/views/notesview.java   (notes view ) 170 170 170 170

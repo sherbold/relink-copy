@@ -1,0 +1,1 @@
+findbugs spotted that logger changes would be lost - now allows logging from compare and acquire dialogs ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/memoryanalyserplugin.java   (find bugs ) (memory analyser plugin ) 572 572 572 572

@@ -1,0 +1,1 @@
+avoid npe on right click on inspector pane with no dump ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/views/inspector/inspectorview.java   (inspector view ) 379 379 379 379

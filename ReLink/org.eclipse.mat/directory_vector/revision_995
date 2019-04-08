@@ -1,0 +1,1 @@
+332853 fix findbugs warning about equals in notesview. ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/views/notesview.java   (find bugs ) (notes view ) 995 995 995 995

@@ -1,0 +1,1 @@
+333004 back out previous change for dtfj image.close() to see if it fixes build problem ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java   (dtfj index builder ) 992 992 992 992

@@ -1,0 +1,1 @@
+333004 call dtfj image.close() to remove temporary files ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java   (dtfj index builder ) 991 991 991 991

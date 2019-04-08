@@ -1,0 +1,1 @@
+320990: revert dependencies to   in the  .x branch https://bugs.eclipse.org/bugs/show_bug.cgi?id=320990 ---- modified : /branches/ .x/features/org.eclipse.mat.dependencies.feature/feature.xml modified : /branches/ .x/features/org.eclipse.mat.feature/feature.xml   867 867 867 867

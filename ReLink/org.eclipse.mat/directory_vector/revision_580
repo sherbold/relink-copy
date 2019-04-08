@@ -1,0 +1,1 @@
+avoid   compile problem - remove resourcebundle.keyset ---- modified : /trunk/plugins/org.eclipse.mat.ibmdumps/src/org/eclipse/mat/ibmvm/acquire/baseprovider.java   (resource bundle ) (base provider ) 580 580 580 580

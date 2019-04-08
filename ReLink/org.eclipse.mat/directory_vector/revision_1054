@@ -1,0 +1,1 @@
+269608 fix problems with pseudo-translation for menu categories ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/query/registry/categorydescriptor.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/util/querycontextmenu.java   (category descriptor ) (query context menu ) 1054 1054 1054 1054

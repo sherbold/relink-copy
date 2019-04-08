@@ -1,0 +1,1 @@
+[252562] make sure objects keyword appears when displaying oql select list ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/oql/compiler/query.java   398 398 398 398

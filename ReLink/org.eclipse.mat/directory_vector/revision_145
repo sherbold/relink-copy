@@ -1,0 +1,1 @@
+[247254] while opening head dump, mat deletes files it does not own ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/snapshotfactoryimpl.java   (snapshot factory impl ) 145 145 145 145

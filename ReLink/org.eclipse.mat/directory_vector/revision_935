@@ -1,0 +1,1 @@
+try to fix the athena build for mat - change the jdk location properties ---- modified : /trunk/org.eclipse.mat.releng.athena/build.properties   935 935 935 935

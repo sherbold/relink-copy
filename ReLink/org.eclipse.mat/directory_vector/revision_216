@@ -1,0 +1,1 @@
+fix: collapsing information ignored in html report ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/report/internal/parameters.java modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/report/internal/partsfactory.java   (parts factory ) 216 216 216 216

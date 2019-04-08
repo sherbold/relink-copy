@@ -1,0 +1,1 @@
+improve build - copy latest results and cleanup product/target ---- modified : /trunk/build.sh added : /trunk/copy-build-results.xml   1042 1042 1042 1042

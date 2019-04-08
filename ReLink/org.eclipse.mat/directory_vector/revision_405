@@ -1,0 +1,1 @@
+removing dependency to org.eclipse.ui.editors [282300] ---- modified : /trunk/features/org.eclipse.mat.dependencies.feature/feature.xml modified : /trunk/features/org.eclipse.mat.ui.rcp.feature/feature.xml modified : /trunk/plugins/org.eclipse.mat.ui.rcp/meta-inf/manifest.mf   405 405 405 405

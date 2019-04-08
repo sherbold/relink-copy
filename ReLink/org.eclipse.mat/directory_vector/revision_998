@@ -1,0 +1,1 @@
+bug 298078 add context menu for comparison results ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/messages.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/compare/comparetablesquery.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/messages.properties   (compare tables query ) 998 998 998 998

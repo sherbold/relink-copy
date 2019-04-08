@@ -1,0 +1,1 @@
+[269608] fixed externalization of "no birt available" message ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/messages.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/messages.properties modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/panes/overviewpane.java   (overview pane ) 293 293 293 293

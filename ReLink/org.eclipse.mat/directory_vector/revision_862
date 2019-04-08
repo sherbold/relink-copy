@@ -1,0 +1,1 @@
+320366 improve error message for unknown object in a field ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/model/abstractobjectimpl.java   (abstract object impl ) 862 862 862 862

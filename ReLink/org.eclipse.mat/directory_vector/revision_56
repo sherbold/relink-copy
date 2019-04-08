@@ -1,0 +1,1 @@
+[234428] adding version information to dependencies only; setting minimum version for birt_chart dependency to  .0 ---- modified : /trunk/features/org.eclipse.mat.chart.feature/feature.xml modified : /trunk/plugins/org.eclipse.mat.chart/meta-inf/manifest.mf modified : /trunk/plugins/org.eclipse.mat.chart.ui/meta-inf/manifest.mf   56 56 56 56

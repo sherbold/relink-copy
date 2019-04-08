@@ -1,0 +1,1 @@
+message bundles. null +++ this bug was initially created as a clone of <span class="bz_closed"><a href="show_bug.cgi?id=252795" title="resolved fixed - message bundles">bug #252795</a></span> +++  projects must use eclipse message bundles unless there are technical reasons not to. (see message bundle conversion tool and [1]) message bundles are used 257878 257878 257878 257878

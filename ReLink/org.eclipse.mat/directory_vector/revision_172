@@ -1,0 +1,1 @@
+fix: negativearraysizeexception in component report ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/component/componentreportquery.java   (negative array size exception ) (component report query ) 172 172 172 172

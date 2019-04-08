@@ -1,0 +1,1 @@
+337462 format a spec or ashtml compositeresult held inside another compositeresult ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/queryexecution.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/panes/queryresultpane.java   (composite result ) (composite result ) (query execution ) (query result pane ) 1055 1055 1055 1055

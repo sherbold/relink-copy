@@ -1,0 +1,1 @@
+fix: throw error message if the dump number to be parsed is not available ---- modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/parser.java   277 277 277 277

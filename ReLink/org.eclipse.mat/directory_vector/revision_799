@@ -1,0 +1,1 @@
+312567 leak of snapshotimpl via querycontexthelp ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/browser/querybrowserpopup.java   (snapshot impl ) (query context help ) (query browser popup ) 799 799 799 799

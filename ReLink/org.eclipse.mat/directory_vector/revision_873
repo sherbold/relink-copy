@@ -1,0 +1,1 @@
+321013 allow automatic opening of acquired javacore dumps ---- modified : /branches/ .x/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/acquire/acquiresnapshotaction.java   (acquire snapshot action ) 873 873 873 873

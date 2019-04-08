@@ -1,0 +1,1 @@
+performance fix - add cache of class loader to classes; avoid bug with duplicate objects not on heap; adjust size of class objects ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/messages.properties   (dtfj index builder ) 364 364 364 364

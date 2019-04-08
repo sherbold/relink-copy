@@ -1,0 +1,1 @@
+319754 avoid null pointer exception when typing into filter column header and then sorting ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/viewer/refinedresultviewer.java   (refined result viewer ) 856 856 856 856

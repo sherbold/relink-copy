@@ -1,0 +1,1 @@
+improved error message when parsing corrupt hprof files ---- modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/parser.java modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/parser.java   85 85 85 85

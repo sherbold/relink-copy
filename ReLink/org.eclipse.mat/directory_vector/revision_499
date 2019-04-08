@@ -1,0 +1,1 @@
+use junit 4 but revert runner changes ---- modified : /trunk/plugins/org.eclipse.mat.tests/meta-inf/manifest.mf modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/testrunner.java   (j unit ) 499 499 499 499

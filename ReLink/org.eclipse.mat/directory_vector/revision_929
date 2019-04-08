@@ -1,0 +1,1 @@
+320082: build mat (plugins, features and rcps) with maven tycho  change dtfj version in the target definition ---- added : /trunk/org.eclipse.mat.targetdef/.project modified : /trunk/org.eclipse.mat.targetdef/mat-site.target   (rc ps ) 929 929 929 929

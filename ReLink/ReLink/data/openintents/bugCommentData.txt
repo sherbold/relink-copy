@@ -1,0 +1,219 @@
+4	friedger	1197841020000	This is in version 0.0.3 
+4	peli0...@googlemail.com	1198448128000	Has been resolved by Friedger himself. Problem no longer occurs. 
+10	friedger	1203557379000	(No comment was entered for this change.) 
+10	peli0...@googlemail.com	1203578977000	(No comment was entered for this change.) 
+10	friedger	1205017039000	No fixes/changes of locations 0.1.4; descoped to ms 0.1.5 
+10	friedger	1205826059000	moved favorite locations to main trunk 
+13	friedger	1203542539000	(No comment was entered for this change.) 
+13	peli0...@googlemail.com	1203555510000	Really? Did you try with the latest version in the trunk and m5? It should be black background as this is the only theme that currently supports the new Android look. I will check tonight whether I had checked everything in correctly. 
+13	peli0...@googlemail.com	1203557132000	(No comment was entered for this change.) 
+13	peli0...@googlemail.com	1203579331000	Resolved with the new appearance that follows the m5 GUI. 
+16	peli0...@googlemail.com	1203557072000	(No comment was entered for this change.) 
+16	peli0...@googlemail.com	1203684245000	SensorSimulator View has been converted to display tabs. 
+19	friedger	1203826932000	(No comment was entered for this change.) 
+19	peli0...@googlemail.com	1204976823000	Resolved in revision 634. 
+20	peli0...@googlemail.com	1205056825000	Partly resolved in revision 639, at least for shopping items.  For shopping lists, a separate Activity is required.  Open issues: * List pick does not pick list yet. * View opens the default shopping list, even if item is on another list.  
+20	peli0...@googlemail.com	1206555052000	New activity necessary to list all shopping lists. 
+20	peli0...@googlemail.com	1207593070000	The KISS version will not add any functionality, but make the VIEW action open the  correct shopping list. 
+20	peli0...@googlemail.com	1207593176000	The KISS version will not add any functionality, but make the VIEW action open the  correct shopping list. 
+20	friedger	1207640009000	(No comment was entered for this change.) 
+20	friedger	1207646840000	VIEW item now opens the correct shopping list. 
+21	peli0...@googlemail.com	1204982776000	Resolved in revision 635. 
+28	peli0...@googlemail.com	1204917757000	SensorSimulator settings now fully releases timer if no sensor is enabled.  OpenGL still has to be fixed. 
+28	peli0...@googlemail.com	1205045209000	For OpenGLSensors, I tried to introduce a Lock.lock() and a Thread.sleep(), but  neither of them frees the CPU.  I have asked a corresponding question here: http://groups.google.com/group/android- developers/browse_frm/thread/8f736492d4ba8e04  In principle, the problem is solved. The problem is with Android now. This should be  checked again later. 
+28	peli0...@googlemail.com	1205045463000	Updated in revision 638. 
+28	peli0...@googlemail.com	1207593710000	Needs time and depends on the SDK. This can not be solved now, but should be looked  at later again in detail. 
+28	peli0...@googlemail.com	1207707131000	A related problem for OpenGLSensors may have been reported here: http://blog.dalethatcher.com/2008/04/howto-get-wii-mote-data-into-android.html  &quot;5. For some reason I usually find at this point you'll need to come out of the OpenGL Sensors app and go back in. However once I've done this selecting 'connect' in the menu works.&quot; 
+28	peli0...@googlemail.com	1208140057000	Fixed in revision 996 (but so far only in single apk trunk) - still need to merge modifications into main trunk!  This is connected to error message when the Android orientation sensor is enabled. 
+28	peli0...@googlemail.com	1208408510000	Merged into main trunk in rev. 1006 
+28	peli0...@googlemail.com	1208629879000	(No comment was entered for this change.) 
+29	peli0...@googlemail.com	1203873752000	Could you explain in more detail where you would like to see performance  improvements? ;-) 
+29	friedger	1203876119000	- When loading list of Packages a sub thread shoud be startet. - When typing in the tag in content browser for each character a select is executed. 
+29	friedger	1206027226000	Descoped to 0.1.6 
+29	friedger	1206689480000	packages and content are loaded in own threads. AutoCompleteTextView responds fast enough. 
+32	peli0...@googlemail.com	1204216044000	The patch from  issue #38  fixes this problem. (Revision 568/569) 
+36	friedger	1203961657000	(No comment was entered for this change.) 
+36	peli0...@googlemail.com	1204982882000	(No comment was entered for this change.) 
+36	friedger	1205387338000	(No comment was entered for this change.) 
+37	peli0...@googlemail.com	1204215992000	Fixed in the main trunk with revision 568/569 
+38	peli0...@googlemail.com	1204167303000	Hi paulbalomiri,  Thanks for the help! We'll fix this as soon as possible.  Peli 
+38	peli0...@googlemail.com	1204216104000	Fixed with revision 568/569. 
+39	peli0...@googlemail.com	1205036693000	Resolved in revision 637. 
+40	peli0...@googlemail.com	1204350984000	(No comment was entered for this change.) 
+40	peli0...@googlemail.com	1204351120000	(No comment was entered for this change.) 
+40	peli0...@googlemail.com	1205056923000	(No comment was entered for this change.) 
+40	zeroo...@googlemail.com	1205121243000	(No comment was entered for this change.) 
+41	peli0...@googlemail.com	1204351107000	(No comment was entered for this change.) 
+41	peli0...@googlemail.com	1205057337000	(No comment was entered for this change.) 
+41	zeroo...@googlemail.com	1205396028000	(No comment was entered for this change.) 
+43	peli0...@googlemail.com	1206441195000	Resolved in revision 783. 
+45	peli0...@googlemail.com	1206422523000	Resolved in revision 777 
+46	peli0...@googlemail.com	1206441167000	Resolved in revision 783. 
+47	zeroo...@googlemail.com	1205397241000	(No comment was entered for this change.) 
+47	zeroo...@googlemail.com	1205397732000	guess i found it, needs some furhter testing. zero 
+47	zeroo...@googlemail.com	1205542861000	(No comment was entered for this change.) 
+49	friedger	1206679058000	descoped 
+49	peli0...@googlemail.com	1207666612000	Atom feeds have already been implemented. 
+50	friedger	1206169701000	If the center of the map hasn't changed the original location is reused. 
+52	friedger	1206027686000	Workaround: leave the tag field empty and click &quot;ok&quot; 
+52	friedger	1206384461000	back button = keycode_4. onKeyDown must return true for this code. 
+52	friedger	1206387052000	onKeyDown now calles super.onKeyDown. 
+58	friedger	1206417681000	(No comment was entered for this change.) 
+58	friedger	1206426726000	added a requery() call. 
+59	peli0...@googlemail.com	1206556772000	Resolved in revision 797. 
+61	friedger	1206606119000	(No comment was entered for this change.) 
+61	friedger	1206606653000	(No comment was entered for this change.) 
+62	friedger	1206641049000	I think that is a bug in TabHost. onFreeze() should save the  currentTab. 
+62	friedger	1206641148000	(No comment was entered for this change.) 
+62	friedger	1206641244000	Corrected OpenIntentsView. 
+72	friedger	1206605358000	(No comment was entered for this change.) 
+72	friedger	1206606331000	back button stores tags, menu for &quot;use center as new coord.&quot; and &quot;restore values&quot; added 
+73	friedger	1206608547000	(No comment was entered for this change.) 
+73	friedger	1206691242000	Tag.findTagsForContentType fixed. Magnolia has to be changed to use the fixed code.(new issue) 
+74	friedger	1206620222000	exception removed. 
+74	friedger	1206689334000	(No comment was entered for this change.) 
+74	friedger	1206689349000	delete dynamically. 
+79	friedger	1207459711000	(No comment was entered for this change.) 
+79	friedger	1207509119000	(No comment was entered for this change.) 
+79	friedger	1207648509000	(No comment was entered for this change.) 
+85	peli0...@googlemail.com	1207596457000	Judges will most likely not monitor the LogCat. -&gt; Fix this bug later. 
+85	peli0...@googlemail.com	1208869937000	Resolved by moving unbindGTalkService() from onFreeze() to onPause() in rev. 1026. 
+86	friedger	1207435410000	(No comment was entered for this change.) 
+86	friedger	1207459633000	cursor.requery added in onActivityResult. 
+92	friedger	1207681892000	(No comment was entered for this change.) 
+92	friedger	1207681934000	change horizontal to vertical and vs. 
+100	friedger	1207648464000	(No comment was entered for this change.) 
+100	friedger	1207648665000	(No comment was entered for this change.) 
+101	zeroo...@googlemail.com	1207785065000	(No comment was entered for this change.) 
+101	zeroo...@googlemail.com	1207785214000	(No comment was entered for this change.) 
+102	peli0...@googlemail.com	1207635608000	Similar error message when saving a tag to Magnolia:  D/MagnoliaTagging( 1097): saveBookmark:entering D/MagnoliaTagging( 1097): tag array&gt;&gt;[Ljava.lang.String;@40efc0c0&lt;&lt; D/OpenSSLSessionImpl( 1097): Fetching peer certificates D/OpenSSLSessionImpl( 1097): Fetching certificate 0 of 2 D/OpenSSLSessionImpl( 1097): Pointers are: chain=0x192980 bio=0x2412f8 cert=0x1d ad50 D/OpenSSLSessionImpl( 1097): Passing getcertificatebytes checkpoint 1... D/OpenSSLSessionImpl( 1097): Passing getcertificatebytes checkpoint 2... D/OpenSSLSessionImpl( 1097): Buffer pointer is: bptr=0x1dba90 D/OpenSSLSessionImpl( 1097): Iteration complete. D/OpenSSLSessionImpl( 1097): Fetching certificate 1 of 2 D/OpenSSLSessionImpl( 1097): Pointers are: chain=0x192980 bio=0x2412f8 cert=0x24 1660 D/OpenSSLSessionImpl( 1097): Passing getcertificatebytes checkpoint 1... D/OpenSSLSessionImpl( 1097): Passing getcertificatebytes checkpoint 2... D/OpenSSLSessionImpl( 1097): Buffer pointer is: bptr=0x159ce0 D/OpenSSLSessionImpl( 1097): Iteration complete. D/OpenSSLSessionImpl( 1097): This took us 731 ms D/TrustManagerImpl( 1097): Validating server certificates D/TrustManagerImpl( 1097): This took us 7616 ms E/MagnoliaTagging( 1097): IOE while posting to Magnolia&gt;&gt;Hostname &lt;ma.gnolia.com &gt; was not verified&lt;&lt; D/MagnoliaTagging( 1097): saveBookmark:leaving 
+102	zeroo...@googlemail.com	1207696657000	(zero's note to himself ;) ) probably needs re-implementation using org.apache.http.conn.ssl.AllowAllHostnameVerifier . this is an android/emulator specific issue as code works fine from console. 
+102	zeroo...@googlemail.com	1207790319000	(No comment was entered for this change.) 
+105	peli0...@googlemail.com	1207676921000	There should be an error message that the default (=first) list can not be deleted. 
+105	peli0...@googlemail.com	1208033383000	Fixed for 0.1.7: The menu item for list deletion is not shown for the default list.  This list is currently hard-coded as list #1. Later, the default list should be made  user-selectable. Also, the PresentPicker should contain a choice to add to other  than default shopping list. 
+105	peli0...@googlemail.com	1208652415000	(No comment was entered for this change.) 
+109	friedger	1207677756000	in rc and trunk 
+111	zeroo...@googlemail.com	1207790847000	strangely enough, i don't get this error.  
+111	zeroo...@googlemail.com	1207904199000	i think it's fixed by not oding anything if selectedItemId&lt;=-1, but since i never had that error, i can't verfiy. someone else pls do so. 
+112	friedger	1207681087000	Updating is done by the news service (requires that it is running)  Details: ERROR/AndroidRuntime(4881): java.lang.ArrayIndexOutOfBoundsException ERROR/AndroidRuntime(4881):     at org.openintents.news.views.MessageListAdapter.getView(MessageListAdapter.java:143)  
+112	zeroo...@googlemail.com	1207903737000	(No comment was entered for this change.) 
+112	zeroo...@googlemail.com	1207903831000	(No comment was entered for this change.) 
+113	friedger	1207716018000	(No comment was entered for this change.) 
+114	friedger	1207716817000	(No comment was entered for this change.) 
+114	friedger	1207724116000	edit now loads alert using Intent EDIT_ALERT_GENERIC and extra Alert.EXTRA_URI, update for active, activateOnBoot added. 
+117	zeroo...@googlemail.com	1207793597000	friedger was faster. thanx!  
+119	peli0...@googlemail.com	1208045455000	Resolved in rev. 970. Further cleaned up in rev.  
+119	peli0...@googlemail.com	1208045561000	further cleaned up in rev. 971. 
+120	friedger	1207779912000	(No comment was entered for this change.) 
+121	friedger	1207772474000	Registering on boot might cause the same exception 
+121	friedger	1207780030000	(No comment was entered for this change.) 
+129	peli0...@googlemail.com	1208629795000	Used getFileStreamPath(mDemoFileName).getAbsolutePath() to obtain path. Resolved in  Rev. 1015. 
+130	peli0...@googlemail.com	1208681155000	Resolve in rev. 1022. 
+133	peli0...@googlemail.com	1208867587000	Problem was locally: Rename did not work on table &quot;ContainsFull&quot;, only on  table &quot;Items&quot;. Delete now marks the item in shared lists. Resolved in rev. 1025. 
+137	peli0...@googlemail.com	1219191508000	(No comment was entered for this change.) 
+137	peli0...@googlemail.com	1219224697000	Fixed in r1054 and 1055. 
+138	peli0...@googlemail.com	1219224734000	(No comment was entered for this change.) 
+138	peli0...@googlemail.com	1219518789000	(No comment was entered for this change.) 
+138	peli0...@googlemail.com	1219951419000	Fixed in revision 1063. 
+141	friedger	1220218576000	(No comment was entered for this change.) 
+141	friedger	1220218811000	(No comment was entered for this change.) 
+143	friedger	1220218461000	(No comment was entered for this change.) 
+143	friedger	1220218494000	MediaScannerEngine added, logCat now shows start and stop of engine. 
+144	friedger	1220215150000	(No comment was entered for this change.) 
+144	friedger	1220216485000	remove icon for now. 
+144	friedger	1220216590000	(No comment was entered for this change.) 
+147	friedger	1220502023000	(No comment was entered for this change.) 
+147	friedger	1220504743000	(No comment was entered for this change.) 
+148	peli0...@googlemail.com	1220370539000	Here is some mock location provider posted: http://groups.google.com/group/android-developers/browse_frm/thread/dc1b48558c176d80#  Unless there is some quick fix for this crash, the feature should probably be moved  to 0.9.1. 
+148	friedger	1220501213000	(No comment was entered for this change.) 
+148	friedger	1220505815000	(No comment was entered for this change.) 
+149	peli0...@googlemail.com	1220511680000	Fixed in revisions #1076, 1079, 1083 - 1085. 
+155	peli0...@googlemail.com	1224657391000	Fixed in rev. 1183. 
+162	peli0...@googlemail.com	1226903239000	Fixed in rev. 1414. 
+168	peli0...@googlemail.com	1232265588000	Fixed in r1776. 
+169	isaac.jo...@gmail.com	1232027838000	Increased priority. 
+169	isaac.jo...@gmail.com	1232030795000	I verified that:  1. despite lock_preference being set to 1 minute, it still operates at 5 minutes (will add a new issue) 2. It didn't log out after 5 minutes.  I discovered that we failed to call t.start() when creating the timer, so finish() was never called. Not sure how that happened, but it's fixed now! 
+170	isaac.jo...@gmail.com	1232027855000	(No comment was entered for this change.) 
+170	isaac.jo...@gmail.com	1232065104000	This is so that remote applications might detect the user's preference and ask them if they'd like to change it if they want to continue using this application.  
+170	peli0...@googlemail.com	1232131276000	I think this should be handled by OI Safe itself.  It should prompt the user for granting external access.  Later this could be changed to a finer level of control, depending on which package  is requesting information.  Question: Do services allow to tell which application is connecting?   
+170	peli0...@googlemail.com	1232152840000	Fixed in r1753.  There is no return error code, but the user is prompted every time they do not allow  access. It is assumed that the external application should allow for a setting to not  access OI Safe if this is not desired. 
+179	peli0...@googlemail.com	1232039703000	(No comment was entered for this change.) 
+179	peli0...@googlemail.com	1232116385000	Fixed in r1743. getSetPassword was called before onResume(), therefore dbHelper was still null.  
+183	isaac.jo...@gmail.com	1232165598000	Critical because it can cause loss of user data. 
+183	isaac.jo...@gmail.com	1232178120000	(No comment was entered for this change.) 
+183	isaac.jo...@gmail.com	1232179671000	At least saved the data onPause in revision 1757. Checking if that's OK. Still should reset the timer when the user performs discrete actions, but that'll probably require threading the connection around to category list.  
+183	isaac.jo...@gmail.com	1232186113000	Created a broadcast intent to reset the timer - the service itself responds to it. Reset it in a few places, like when selecting a list item, etc.  Would be nice to just restart it if the user types or does anything in the Safe UI, but this feels good enough for now. 
+190	peli0...@googlemail.com	1232612361000	Fixed in r1825. 
+190	peli0...@googlemail.com	1232612374000	(No comment was entered for this change.) 
+192	peli0...@googlemail.com	1232614751000	Fixed in r1826. 
+194	peli0...@googlemail.com	1232612127000	Fixed in r1824. 
+194	peli0...@googlemail.com	1232612143000	(No comment was entered for this change.) 
+195	peli0...@googlemail.com	1232678785000	(No comment was entered for this change.) 
+195	peli0...@googlemail.com	1232981844000	Fixed in r1845. 
+197	peli0...@googlemail.com	1233251317000	Fixed in r1878.  It was good to reproduce this bug in the emulator:  ------ Randy: Here's the steps on the emulator I do:  1.  Open OI Safe, unlock it, leave it on CategoryList  2.  Click on the power off button in the lower right.  3.  Wait for the OI Safe timeout, you can see it happen in the debug.  01-29 20:01:12.020: DEBUG/IntentHandler(1842): onResume()  01-29 20:01:12.349: DEBUG/IntentHandler(1842): onPause()  01-29 20:01:12.550: DEBUG/ServiceDispatchIMPL(1842): onCreate  4. Click on the power on button.  In the debug you'll see:  01-29 20:02:28.290: DEBUG/IntentHandler(1842): onResume()  5.  Hit Menu key to unlock the Keyguard.  01-29 20:03:21.770: DEBUG/KeyguardViewMediator(53): pokeWakelock(5000)  6. OI Safe will be displayed, presumably IntentHandler is running.   
+197	isaac.jo...@gmail.com	1233283562000	This same behavior occurs in the following instance - reopening:  1. Make sure OI Safe is locked, and that &quot;allow external access&quot; is disabled. 2. go to OI Notepad and create a new note, encrypt it. 3. You should be redirected to log into OI Safe. 4. You should be asked by OI Safe if you want to allow external access (bug: You are asked twice?) 5. After allowing, you get the blank screen, with OI Safe running  
+197	peli0...@googlemail.com	1233471651000	Fixed in r1892. Please verify in different scenarios. I hope this fix does not break  anything else. 
+200	rmce...@gmail.com	1233283435000	 Issue 202  has been merged into this issue. 
+200	rmce...@gmail.com	1233304843000	(No comment was entered for this change.) 
+200	peli0...@googlemail.com	1233470250000	Fixed in r1891. 
+203	peli0...@googlemail.com	1233473958000	Fixed in r1895.  Allow &quot;Save&quot; and &quot;Send&quot; commands only for unencrypted notes.  This quick solution is actually also a safety measure and prevents you from  accidentally sending or saving an encrypted note.   
+205	rmce...@gmail.com	1233563326000	We can approach this with one of two ways:  1) When user does Menu -&gt; Delete, do a custom setResult() so that PassView can detect the deletion and simply finish().  2) Remove Delete from PassEdit.  I favor #1. 
+205	rmce...@gmail.com	1233564511000	(No comment was entered for this change.) 
+205	rmce...@gmail.com	1233566981000	Fixed in r1905. 
+205	rmce...@gmail.com	1234532609000	(No comment was entered for this change.) 
+207	friedger	1233893566000	(No comment was entered for this change.) 
+207	peli0...@googlemail.com	1233908253000	Fixed in r1927.  It has nothing to do with going from version 1.0.2 to 1.1.0, but with screen  orientation change in the edit tag dialog. It did not keep the Uri in a bundle.    
+210	rmce...@gmail.com	1234687620000	I've seen this error as well.  Unfortunately I'm not able to create a series of steps to follow in order to duplicate it at will.  This error is emitted from AskPassword.java and IntentHandler.java. 
+210	rmce...@gmail.com	1236204352000	Possibly fixed in r1967.  kanisdragon, I only just saw your comment.   Thanks for digging into it.   Please do an svn update and try my release.   If what you say is true, than my understanding of finish() is flawed.   I understand that when finish() is called, that it behaves like a return;  Were you ever able to reproduce the bug on demand?  I wasn't.  So I just added some checks in IntentHandler to see if salt was empty or null.   If finish() doesn't immediately return, I think it'd be better in CategoryList to do the same check salt for null or empty.  Since adding the check I haven't seen the salt error on my phone.   But I could just be getting lucky as of late.  :) 
+210	rmce...@gmail.com	1236245000000	Sure enough, you're right!  I poked around in the ApiDemos and they absolutely stick a return; in where it's appropriate.  I've updated all finish() calls to have a return;.   Plus I ran through every activity and ensured that the onCreate() and onResume() had the appropriate check for isSignedIn().  For a couple of activities I needed to create an onResume() to even check, but they should all have it now.  Please check out the latest revision 1972.   Your feedback is great, thank you.  
+210	rmce...@gmail.com	1236674303000	I've seen the oddity where you screen off/on but the key icon is still in the notification as if the safe is unlocked, but when you launch the safe it still asks for the password.   More of an annoying bug.   I can't duplicate it on command.  The second oddity I have not seen and cannot duplicate. 
+210	rmce...@gmail.com	1253625823000	(No comment was entered for this change.) 
+217	rmce...@gmail.com	1236677099000	Also fails with PassView. 
+217	rmce...@gmail.com	1253625914000	Fixed with r2293 
+218	peli0...@googlemail.com	1236680795000	Related problem: Once an item is edited after the screen orientation has changed, it  appears twice in the shopping list. (Without screen orientation while the dialog is  open, the item is simply modified as expected - not duplicated). 
+218	peli0...@googlemail.com	1240455662000	Fixed in r1989. 
+219	peli0...@googlemail.com	1240456663000	Fixed in r2033. 
+224	peli0...@googlemail.com	1246528714000	Fixed in r2237. 
+224	peli0...@googlemail.com	1246528722000	(No comment was entered for this change.) 
+225	rmce...@gmail.com	1253626002000	Should be corrected with all the recent changes with autolock. 
+225	rmce...@gmail.com	1259399949000	(No comment was entered for this change.) 
+226	peli0...@googlemail.com	1261472862000	Should work in current release of OI File Manager. Please bump if it does not. 
+227	peli0...@googlemail.com	1243139761000	Fixed in r2102. 
+229	peli0...@googlemail.com	1261472961000	(No comment was entered for this change.) 
+229	peli0...@googlemail.com	1262501001000	Fixed in r2456. Custom title disabled for now. 
+231	peli0...@googlemail.com	1261154086000	Fixed in r2405. Will be public in release v1.2.0. 
+232	peli0...@googlemail.com	1245635105000	Good suggestion.  The RelativeLayout used currently would have to be replaced by (less performant) nested LinearLayouts (as it actually was originally - before this blog post suggested a change: http://android-developers.blogspot.com/2009/02/android-layout-tricks-1.html )  Or does anyone see a way how to achieve this within RelativeLayout? 
+232	peli0...@googlemail.com	1261391603000	Fixed in r2420. Will be available in upcoming version 1.2.0. 
+233	peli0...@googlemail.com	1264663672000	Fixed in r2511. Will be available in OI Notepad 1.1.4. 
+236	rmce...@gmail.com	1259399704000	Unable to duplicate in OI Safe 1.2.3. 
+236	peli0...@googlemail.com	1261473136000	I also can not reproduce this in 1.2.4.  I'll mark it as fixed for now. Please bump if the problem still exists. 
+237	peli0...@googlemail.com	1261472752000	(No comment was entered for this change.) 
+237	peli0...@googlemail.com	1273882328000	Probably solved in r2666.  Please open issue again if the problem still occurs in the upcoming version OI  Shopping List 1.2.4.  --------------  05-15 16:57:11.106: ERROR/AndroidRuntime(416): Uncaught handler: thread main exiting  due to uncaught exception 05-15 16:57:11.116: ERROR/AndroidRuntime(416): java.lang.IllegalStateException:  attempt to acquire a reference on a close SQLiteClosable 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  android.database.sqlite.SQLiteClosable.acquireReference(SQLiteClosable.java:31) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  android.database.sqlite.SQLiteQuery.fillWindow(SQLiteQuery.java:69) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  android.database.sqlite.SQLiteCursor.fillWindow(SQLiteCursor.java:288) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  android.database.sqlite.SQLiteCursor.onMove(SQLiteCursor.java:260) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  android.database.AbstractCursor.moveToPosition(AbstractCursor.java:188) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  android.database.AbstractCursor.moveToNext(AbstractCursor.java:256) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  android.database.CursorWrapper.moveToNext(CursorWrapper.java:191) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  org.openintents.shopping.ShoppingListView.updateTotal(ShoppingListView.java:827) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  org.openintents.shopping.ShoppingListView.requery(ShoppingListView.java:796) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  org.openintents.shopping.ShoppingListView.cleanupList(ShoppingListView.java:729) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  org.openintents.shopping.ShoppingActivity.cleanupList(ShoppingActivity.java:1228) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  org.openintents.shopping.ShoppingActivity.access$0(ShoppingActivity.java:1224) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  org.openintents.shopping.ShoppingActivity$1.onShake(ShoppingActivity.java:310) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  org.openintents.util.ShakeSensorListener.onSensorChanged(ShakeSensorListener.java:30) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  android.hardware.SensorManager$LegacyListener.onSensorChanged(SensorManager.java:1387 ) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  android.hardware.SensorManager$ListenerDelegate$1.handleMessage(SensorManager.java:43 5) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  android.os.Handler.dispatchMessage(Handler.java:99) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  android.os.Looper.loop(Looper.java:123) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  android.app.ActivityThread.main(ActivityThread.java:4363) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  java.lang.reflect.Method.invokeNative(Native Method) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  java.lang.reflect.Method.invoke(Method.java:521) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:860) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  com.android.internal.os.ZygoteInit.main(ZygoteInit.java:618) 05-15 16:57:11.116: ERROR/AndroidRuntime(416):     at  dalvik.system.NativeStart.main(Native Method)  
+242	peli0...@googlemail.com	1261482241000	This issue was closed by revision r2432. 
+242	peli0...@googlemail.com	1261482373000	(No comment was entered for this change.) 
+243	peli0...@googlemail.com	1261482729000	(No comment was entered for this change.) 
+243	peli0...@googlemail.com	1267189748000	Reported by Jim R.: &quot;When I rotate my G1 the screen dims, the title bar is shown, and the &quot;flashlight stays  on&quot; message is displayed.  Please modify OI flashlight so that these actions don't take  place when moving between portrait and landscape modes.&quot; 
+243	peli0...@googlemail.com	1271859660000	This issue was closed by revision r2620. 
+244	peli0...@googlemail.com	1260430658000	This bug does not occur on every device. For example, on the T-mobile G1 it does not  occur. Probably we need a device-specific bug fix. 
+244	peli0...@googlemail.com	1261468027000	Possibly fixed in r2421. Please check if this works in the upcoming version 1.2.0 of OI  Shopping List. 
+244	peli0...@googlemail.com	1262496721000	Great! I'll close this issue for now. It can be reopened (or a new issue created) if  another device turns out to show the same problem. 
+253	peli0...@googlemail.com	1264921043000	This issue was closed by revision r2518. 
+262	peli0...@googlemail.com	1267555825000	(No comment was entered for this change.) 
+262	friedger	1268806151000	(No comment was entered for this change.) 
+262	friedger	1268809997000	Related to http://code.google.com/p/android/issues/detail?id=2626 Will fix the decimal point to period. 
+262	peli0...@googlemail.com	1273882608000	Seems to work as of version 1.2.3. 
+263	friedger	1268805196000	IME_ACTION_DONE added to mTags in EditDialog 
+267	peli0...@googlemail.com	1271477662000	(No comment was entered for this change.) 
+267	peli0...@googlemail.com	1271681855000	This issue was closed by revision r2615. 
+267	peli0...@googlemail.com	1271682668000	This issue was updated by revision r2617.  Mention patch in readme file. 
+267	peli0...@googlemail.com	1271685497000	This issue was updated by revision r2619.  Add patch contributor to list of authors. 
+277	peli0...@googlemail.com	1274768031000	Most probably fixed already in  issue 237 . Will be released in OI Shopping List 1.2.4. 
+281	peli0...@googlemail.com	1276398263000	(No comment was entered for this change.) 
+281	rmce...@gmail.com	1293672460000	Duplicated by filling up space in /data/data/  # cd /data/data/org.openintents.safe/databases # dd if=/dev/zero of=nothing bs=128k # dd if=/dev/zero of=nothing bs=128k nothing: write error: No space left on device  
+281	rmce...@gmail.com	1293675387000	Added checks in revision 2889.   If sql error upon insert/update is detected, the entry is not added/updated within the cache and toast is displayed. 
+282	friedger	1276072047000	Looks like the mExtraItems are not cleared.  If the scanned item is edited the product appears twice, once in the original form (as in mExtraItems) one in the edited form. 
+282	friedger	1276121537000	It only occurs if the shopping list is started from the plugin, if started from home screen, all works fine. Ergo, the intent action has to be changed after the items have been inserted to avoid duplicate insertion. 
+282	peli0...@googlemail.com	1276922937000	Fixed in r2711. 
+286	peli0...@googlemail.com	1276922540000	Fixed in r2716. 
+291	peli0...@googlemail.com	1278609623000	(No comment was entered for this change.) 
+291	rmce...@gmail.com	1293676382000	fixed with revision 2890.   now if user has copied the username, don't also copy the password. 

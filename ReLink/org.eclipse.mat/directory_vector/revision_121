@@ -1,0 +1,1 @@
+fix exception: parser configuration problem: namespace reporting is not enabled (due to saxon parser) ---- modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/regression/testapplication.java   (test application ) 121 121 121 121

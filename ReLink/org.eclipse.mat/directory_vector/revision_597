@@ -1,0 +1,1 @@
+bug 306803: not possible to traverse the overview pane with the tab key  https://bugs.eclipse.org/bugs/show_bug.cgi?id=306803 ---- modified : /trunk/plugins/org.eclipse.mat.chart.ui/src/org/eclipse/mat/ui/internal/chart/chartcanvas.java   (chart canvas ) 597 597 597 597

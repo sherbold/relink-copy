@@ -1,0 +1,1 @@
+318989: proposal for extension: resolver for jruby  fix build to pick the  .100 version of the jruby feature  ---- modified : /trunk/org.eclipse.mat.releng/site/site.xml   930 930 930 930

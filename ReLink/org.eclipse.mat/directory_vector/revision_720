@@ -1,0 +1,1 @@
+229449 improve message on formatting dump ---- modified : /trunk/plugins/org.eclipse.mat.ibmdumps/src/org/eclipse/mat/ibmvm/acquire/ibmsystemdumpprovider.java modified : /trunk/plugins/org.eclipse.mat.ibmdumps/src/org/eclipse/mat/ibmvm/acquire/messages.properties   (ibm system dump provider ) 720 720 720 720

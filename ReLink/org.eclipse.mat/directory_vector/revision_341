@@ -1,0 +1,1 @@
+bug 279527: don't use jfaceresources.getdefaultfont in batch mode to avoid problems on aix 64-bit. ---- modified : /trunk/plugins/org.eclipse.mat.chart/src/org/eclipse/mat/impl/chart/chartbuilder.java   (j face resources ) (chart builder ) 341 341 341 341

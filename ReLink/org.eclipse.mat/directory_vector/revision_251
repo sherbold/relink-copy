@@ -1,0 +1,1 @@
+[246853] fixed snapshot outline page, fixed prefix of heap dumps w/o file extension ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/snapshotfactoryimpl.java   (snapshot factory impl ) 251 251 251 251

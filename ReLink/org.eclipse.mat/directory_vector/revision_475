@@ -1,0 +1,1 @@
+295603 faster cancel: increase interval to 1000 for dominator tree, add some extra cancel checks, use correct progress listener ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/dominatortree.java   (dominator tree ) 475 475 475 475

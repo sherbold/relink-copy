@@ -1,0 +1,1 @@
+332141 remove incorrect removedisposelistener call on notesview dispose ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/views/notesview.java   (notes view ) (notes view ) 976 976 976 976

@@ -1,0 +1,1 @@
+externalize strings from feature.xml in org.eclipse.mat.feature.  ---- added : /trunk/features/org.eclipse.mat.feature/feature.properties modified : /trunk/features/org.eclipse.mat.feature/feature.xml   605 605 605 605

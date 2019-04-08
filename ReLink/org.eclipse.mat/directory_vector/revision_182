@@ -1,0 +1,1 @@
+fix: getting started wizard - save "show dialog on startup" also if user pressed cancel ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/gettingstartedwizard.java   (getting started wizard ) 182 182 182 182

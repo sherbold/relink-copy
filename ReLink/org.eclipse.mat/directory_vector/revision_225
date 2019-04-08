@@ -1,0 +1,1 @@
+fix: missing heap dump in selection dialog if dump was opened via "open file..." instead of "open heap dump..." ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/panes/histogrampane.java   (histogram pane ) 225 225 225 225

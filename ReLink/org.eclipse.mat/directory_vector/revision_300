@@ -1,0 +1,1 @@
+actually throw the exception when operation is cancelled ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/query.java modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/component/topcomponentsreportquery.java   (top components report query ) 300 300 300 300

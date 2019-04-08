@@ -1,0 +1,1 @@
+fix bug when using birt   ---- modified : /trunk/plugins/org.eclipse.mat.chart.ui/src/org/eclipse/mat/ui/internal/chart/chartcanvas.java   (chart canvas ) 35 35 35 35

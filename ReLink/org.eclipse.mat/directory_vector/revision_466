@@ -1,0 +1,1 @@
+add tests to build process - try to get org.eclipse.test and org.eclipse.ant.optional.junit available ---- modified : /trunk/features/org.eclipse.mat.test.feature/feature.xml modified : /trunk/org.eclipse.mat.releng.athena/maps/build.map modified : /trunk/plugins/org.eclipse.mat.tests/meta-inf/manifest.mf   466 466 466 466

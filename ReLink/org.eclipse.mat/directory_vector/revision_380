@@ -1,0 +1,1 @@
+[282300] since org.eclipse.ui.console was removed from the dependency list of org.eclipse.mat.ui i'm removing it also from the dependencies feature which holds all the necessary plugins for the mat rcp. ---- modified : /trunk/features/org.eclipse.mat.dependencies.feature/feature.xml   380 380 380 380

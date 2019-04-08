@@ -1,0 +1,1 @@
+added name resolver for java.lang.character ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/internal/snapshot/commonnameresolver.java   (common name resolver ) 42 42 42 42

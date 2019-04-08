@@ -1,0 +1,1 @@
+322810 fix oql as clause with spaces ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/oql/compiler/query.java modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/snapshot/oqltest.java   (oql test ) 897 897 897 897

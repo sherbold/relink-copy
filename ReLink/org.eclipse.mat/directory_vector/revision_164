@@ -1,0 +1,1 @@
+fix in finalizersinprocessingquery - the query was not returning any results even if there were finalizers in processing ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/finalizer/finalizerinprocessingquery.java   (finalizers in processing query ) (finalizer in processing query ) 164 164 164 164

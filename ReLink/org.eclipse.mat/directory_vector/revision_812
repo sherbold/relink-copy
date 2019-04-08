@@ -1,0 +1,1 @@
+fixed 313636: cannot aquire heapdump ---- modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/acquire/jmapheapdumpprovider.java   (j map heap dump provider ) 812 812 812 812

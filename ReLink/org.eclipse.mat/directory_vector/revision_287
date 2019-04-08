@@ -1,0 +1,1 @@
+fixed bug #268949  - corrected map file entries  removed path to the api plugin, where the strings are not externalized yet ---- modified : /trunk/org.eclipse.mat.releng/babel/mat.map   287 287 287 287

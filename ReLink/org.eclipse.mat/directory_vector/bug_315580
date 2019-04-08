@@ -1,0 +1,1 @@
+unable to select entries in heap dump details. null only the first entry in each row can be selected. this might cause problems  for screen readers. adding swt.full_selection to the treeviewer would mean that the whole line was selected. is that good enough? added swt.full_selection so whole row is read by screen reader. (tree viewer ) 315580 315580 315580 315580

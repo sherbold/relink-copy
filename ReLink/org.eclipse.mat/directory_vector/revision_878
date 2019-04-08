@@ -1,0 +1,1 @@
+321325: remove "beta" from the name of the bundle registry query fix in /branches/ .x ---- modified : /branches/ .x/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/osgi/annotations.properties   878 878 878 878

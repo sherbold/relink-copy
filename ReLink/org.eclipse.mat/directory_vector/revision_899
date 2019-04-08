@@ -1,0 +1,1 @@
+321008 try removing birt.core from dependencies to get eclipse   compile working ---- modified : /branches/ .x/features/org.eclipse.mat.dependencies.feature/feature.xml   899 899 899 899

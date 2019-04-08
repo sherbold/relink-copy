@@ -1,0 +1,1 @@
+fix: (i) remove large borders around pie charts (ii) center the label with total heap size below pie ---- modified : /trunk/plugins/org.eclipse.mat.chart/src/org/eclipse/mat/impl/chart/chartbuilder.java   (chart builder ) 232 232 232 232

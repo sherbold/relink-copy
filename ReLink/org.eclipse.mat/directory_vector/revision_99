@@ -1,0 +1,1 @@
+error handling per heap dump instead of per test suite ---- modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/regression/heapdumptestsresult.java modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/regression/regressiontestapplication.java   (heapdump tests result ) (regression test application ) 99 99 99 99

@@ -1,0 +1,1 @@
+avoid problems reading fields from objects of types with corrupt superclass information ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjheapobjectreader.java   (dtfj heap object reader ) 420 420 420 420

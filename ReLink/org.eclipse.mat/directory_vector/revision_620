@@ -1,0 +1,1 @@
+299371 remove unused dependency on eclipse.ui for dtfj parser ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/meta-inf/manifest.mf deleted : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/.java   ( initdtfj ) ( 2 ) 620 620 620 620

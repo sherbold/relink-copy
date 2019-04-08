@@ -1,0 +1,1 @@
+enable to specify that an argument of type file is a directory. ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/query/annotations/argument.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/query/arguments/fileopendialogeditor.java   (file open dialog editor ) 716 716 716 716

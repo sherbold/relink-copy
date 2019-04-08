@@ -1,0 +1,1 @@
+312567 leak of snapshotimpl via querycontexthelp ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/browser/querycontexthelp.java   (snapshot impl ) (query context help ) (query context help ) 797 797 797 797

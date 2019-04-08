@@ -1,0 +1,1 @@
+[266231] improved handling of reference objects - guess referent if attribute names are not available ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/referencequery.java   (reference query ) 276 276 276 276

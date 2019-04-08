@@ -1,0 +1,1 @@
+327129 add xml schema for report files ---- modified : /trunk/plugins/org.eclipse.mat.api/meta-inf/reports/overview.xml added : /trunk/plugins/org.eclipse.mat.api/meta-inf/reports/report.xsd modified : /trunk/plugins/org.eclipse.mat.api/meta-inf/reports/suspects.xml modified : /trunk/plugins/org.eclipse.mat.api/meta-inf/reports/top_components.xml   1040 1040 1040 1040

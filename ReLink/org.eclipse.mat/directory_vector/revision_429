@@ -1,0 +1,1 @@
+274539 overview pane is missing scroll bars - use scrolledform and tablewraplayout to fix ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/panes/overviewpane.java   (scrolled form ) (table wrap layout ) (overview pane ) 429 429 429 429

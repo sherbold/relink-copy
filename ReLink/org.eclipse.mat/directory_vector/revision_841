@@ -1,0 +1,1 @@
+bug 313923: copy-paste on a large set takes an extremely long time  implemented exporttotxtfile to stream the data instead of building a full copy in memory first ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/util/copy.java   841 841 841 841

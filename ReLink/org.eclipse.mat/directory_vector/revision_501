@@ -1,0 +1,1 @@
+get bundle reader to work with dumps from ibm vms ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/osgi/model/equinoxbundlereader.java   (v ms ) (equinox bundle reader ) 501 501 501 501

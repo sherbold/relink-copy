@@ -1,0 +1,1 @@
+[270787], [270782] - popup help moves together with the arguments wizard, removed flickering ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/browser/querycontexthelp.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/query/arguments/argumentswizard.java   (query context help ) (arguments wizard ) 288 288 288 288

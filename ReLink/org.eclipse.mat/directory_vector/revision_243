@@ -1,0 +1,1 @@
+fix: class histogram: remove package names from class name if grouped by package ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/snapshot/histogram.java   243 243 243 243

@@ -1,0 +1,1 @@
+322508 allow keyboard to sort, resize and reorder columns - stop text cursor movement on sort or reorder ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/viewer/refinedresultviewer.java   (refined result viewer ) 912 912 912 912

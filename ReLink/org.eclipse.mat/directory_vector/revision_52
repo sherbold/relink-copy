@@ -1,0 +1,1 @@
+adding version information to dependencies and plugins see bug report https://bugs.eclipse.org/bugs/show_bug.cgi?id=234428 ---- modified : /trunk/features/org.eclipse.mat.chart.feature/feature.xml modified : /trunk/features/org.eclipse.mat.dependencies.feature/feature.xml   52 52 52 52

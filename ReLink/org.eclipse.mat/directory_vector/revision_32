@@ -1,0 +1,1 @@
+fix: setting the font to "arial" for the legent in the pie chart didn't work on vista. fix is to leave the default font. ---- modified : /trunk/plugins/org.eclipse.mat.chart/src/org/eclipse/mat/impl/chart/chartbuilder.java   (chart builder ) 32 32 32 32

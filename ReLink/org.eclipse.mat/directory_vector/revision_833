@@ -1,0 +1,1 @@
+bug 315940: remember custom jdk that is set for acquire heap dump  https://bugs.eclipse.org/bugs/show_bug.cgi?id=315940 ---- modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/acquire/jmapheapdumpprovider.java   (j map heap dump provider ) 833 833 833 833

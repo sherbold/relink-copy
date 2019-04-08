@@ -1,0 +1,1 @@
+rcp feature (needed as product is build purely on feature dependencies) ---- added : /trunk/features/org.eclipse.mat.ui.rcp.feature added : /trunk/features/org.eclipse.mat.ui.rcp.feature/.project added : /trunk/features/org.eclipse.mat.ui.rcp.feature/build.properties added : /trunk/features/org.eclipse.mat.ui.rcp.feature/feature.xml   23 23 23 23

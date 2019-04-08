@@ -1,0 +1,1 @@
+change "process identifier" to "pid" in acquiredialog message.properties ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/messages.properties   (acquire dialog ) 709 709 709 709

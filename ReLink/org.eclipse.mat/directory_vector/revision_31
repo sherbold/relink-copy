@@ -1,0 +1,1 @@
+[227493] close all files after parsing a heap dump ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/garbagecleaner.java   (garbage cleaner ) 31 31 31 31

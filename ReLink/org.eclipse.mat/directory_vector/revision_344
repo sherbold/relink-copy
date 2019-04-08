@@ -1,0 +1,1 @@
+fixed: argument table is not properly redrawn if an additional argument row is added ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/query/arguments/argumentstable.java   (arguments table ) 344 344 344 344

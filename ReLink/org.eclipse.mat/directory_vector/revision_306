@@ -1,0 +1,1 @@
+fix: check for bundle registry instead of launcher (which can be different) ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/osgi/model/bundlereaderfactory.java   (bundle reader factory ) 306 306 306 306

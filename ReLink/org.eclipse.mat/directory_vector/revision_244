@@ -1,0 +1,1 @@
+fix: regression test must throw exception in case of error to actually fail the hudson build ---- modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/regression/testapplication.java   (test application ) 244 244 244 244

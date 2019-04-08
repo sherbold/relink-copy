@@ -1,0 +1,1 @@
+320082 - improve tycho build    fix that ibmdumps does not pack the bin folder   fix o.e.m.ui.help to build and include the javadoc ---- modified : /trunk/plugins/org.eclipse.mat.ibmdumps/build.properties modified : /trunk/plugins/org.eclipse.mat.ui.help/pom.xml   985 985 985 985

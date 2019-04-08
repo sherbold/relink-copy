@@ -1,0 +1,1 @@
+remove hprof specific hint from the open heap dump section on the intro screen in the rcp ---- modified : /trunk/plugins/org.eclipse.mat.ui.rcp/intro/introcontent.xml   795 795 795 795

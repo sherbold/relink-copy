@@ -1,0 +1,1 @@
+docu: class name pattern 'org.eclipse.mat.*' yields nothing on sample dump -> change to  ---- modified : /trunk/plugins/org.eclipse.mat.ui/tutorials/component_report.xml   347 347 347 347

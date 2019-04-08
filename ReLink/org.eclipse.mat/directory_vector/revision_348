@@ -1,0 +1,1 @@
+fix: if no visible line estimate is possible (widget and its parent are invisible), display at least 10 elements (case: run oql from tutorial) ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/viewer/refinedresultviewer.java   (refined result viewer ) 348 348 348 348

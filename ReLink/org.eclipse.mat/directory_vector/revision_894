@@ -1,0 +1,1 @@
+322206 don't dispose a system color in the navigation pane ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/views/navigatorviewpage.java   (navigator view page ) 894 894 894 894

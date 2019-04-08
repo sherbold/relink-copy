@@ -1,0 +1,1 @@
+remove some compiler warnings for generics and string constants ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjheapobjectreader.java modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java   (dtfj heap object reader ) (dtfj index builder ) 531 531 531 531

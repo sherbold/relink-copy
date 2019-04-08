@@ -1,0 +1,1 @@
+fix npe during garbage cleanup ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/garbagecleaner.java   (garbage cleaner ) 36 36 36 36

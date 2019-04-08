@@ -1,0 +1,1 @@
+268458 improve experimental mode with method & stack frame data for dtfj dumps - collect methods in type <method>. also fix type of phd bootstrap loader. ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java   (dtfj index builder ) 438 438 438 438

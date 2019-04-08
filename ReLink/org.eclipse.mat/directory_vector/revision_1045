@@ -1,0 +1,1 @@
+320082 fix product id in mat.product file - to get icons and about text to appear ---- modified : /trunk/plugins/org.eclipse.mat.ui.rcp/build.properties modified : /trunk/plugins/org.eclipse.mat.ui.rcp/mat.product modified : /trunk/plugins/org.eclipse.mat.ui.rcp/plugin.xml modified : /trunk/product/mat.product   1045 1045 1045 1045

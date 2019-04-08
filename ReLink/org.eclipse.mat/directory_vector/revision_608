@@ -1,0 +1,1 @@
+fixed bug 307176: using enter in the snapshot history view has doesn't open the snapshot  https://bugs.eclipse.org/bugs/show_bug.cgi?id=307176 ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/views/snapshothistoryview.java   (snapshot history view ) 608 608 608 608

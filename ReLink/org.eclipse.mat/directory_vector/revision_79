@@ -1,0 +1,1 @@
+fix concurrentmodificationexception exception ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshothistoryservice.java   (concurrent modification exception ) (snapshot history service ) 79 79 79 79

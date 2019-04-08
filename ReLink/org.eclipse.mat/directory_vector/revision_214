@@ -1,0 +1,1 @@
+[258224] inspectorview enhancement to render imagedata and rgbs ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/commonnameresolver.java modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/snapshot/model/iprimitivearray.java   (inspector view ) (image data ) (rg bs ) (common name resolver ) (i primitive array ) 214 214 214 214

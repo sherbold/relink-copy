@@ -1,0 +1,1 @@
+fix up array pointer sizes for compressed pointer dumps & improve error message on opening bad xml dump file. ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java   (dtfj index builder ) 373 373 373 373

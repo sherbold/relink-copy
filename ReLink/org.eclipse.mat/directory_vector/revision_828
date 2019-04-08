@@ -1,0 +1,1 @@
+317550 improve equinox bundle explorer with better messages and extraction of extensions ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/osgi/model/equinoxbundlereader.java modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/internal/messages.properties   (equinox bundle reader ) 828 828 828 828

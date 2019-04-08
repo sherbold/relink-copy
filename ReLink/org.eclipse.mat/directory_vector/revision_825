@@ -1,0 +1,1 @@
+317177 ensure keywords section in leak report starts on new line ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/leakhunterquery.java   (leak hunter query ) 825 825 825 825

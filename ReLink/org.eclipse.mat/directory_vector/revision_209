@@ -1,0 +1,1 @@
+[258222] add rgb resolver so rgb objects display their red/green/blue ---- modified : /trunk/plugins/org.eclipse.mat.api/plugin.xml modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/eclipse/eclipsenameresolver.java   (eclipse name resolver ) 209 209 209 209

@@ -1,0 +1,1 @@
+305152 fix table numbering for context menu for table comparisons ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/internal/snapshot/inspections/comparetablesquery.java   (compare tables query ) 1019 1019 1019 1019

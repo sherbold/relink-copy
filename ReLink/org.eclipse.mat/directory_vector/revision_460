@@ -1,0 +1,1 @@
+297458 improve single object query dialog to reduce user errors ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/query/arguments/argumentstable.java   (arguments table ) 460 460 460 460

@@ -1,0 +1,1 @@
+use some extra dump types in the unit tests ---- modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/testsnapshots.java modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/snapshot/generalsnapshottests.java   (test snapshots ) (general snapshot tests ) 542 542 542 542

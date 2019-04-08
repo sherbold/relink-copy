@@ -1,0 +1,1 @@
+299371 change savevalue to use advice.save ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/actions/savevalueasquery.java   (save value ) (save value as query ) 733 733 733 733

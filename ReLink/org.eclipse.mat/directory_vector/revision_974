@@ -1,0 +1,1 @@
+331686 avoid noclassdeffounderror for com.ibm.dtfj.image.corruptdataexception when stopping org.eclipse.mat.dtfj plug-in without dtfj installed ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/initdtfj.java   (no class def found error ) (corrupt data exception ) (init dtfj ) 974 974 974 974

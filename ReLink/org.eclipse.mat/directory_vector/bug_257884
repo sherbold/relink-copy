@@ -1,0 +1,1 @@
+signing. null +++ this bug was initially created as a clone of <span class="bz_closed"><a href="show_bug.cgi?id=252799" title="resolved fixed - signing">bug #252799</a></span> +++  projects must use signed plugins using the eclipse certificate. exceptions must be authorized by the planning council for technical reasons. the plugins are signed. 257884 257884 257884 257884

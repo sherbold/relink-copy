@@ -1,0 +1,1 @@
+312623: rcp solaris _64 https://bugs.eclipse.org/bugs/show_bug.cgi?id=312623 try building without explicitly declaring plugin org.eclipse.equinox.launcher.gtk.solaris. ---- modified : /branches/ .x/features/org.eclipse.mat.dependencies.feature/feature.xml   ( x ) ( 86 ) ( x ) ( 86 ) 875 875 875 875

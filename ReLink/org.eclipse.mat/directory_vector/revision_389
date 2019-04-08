@@ -1,0 +1,1 @@
+minor performance optimization - avoid building new strings for simple gcrootinfo types ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/snapshot/model/gcrootinfo.java   (gc root info ) (gc root info ) 389 389 389 389

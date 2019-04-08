@@ -1,0 +1,1 @@
+improve equinox bundle explorer. null the equinox bundle explorer needs some improvements to messages to give addresses no ids, better handling of nulls in arrays and an attempt to find extensions  via the registryobjects.cache.table i have check in the code for this. 317550 317550 317550 317550

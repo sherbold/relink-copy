@@ -1,0 +1,1 @@
+301970 only try loading a dtfj dump once per file or pair of dump/meta files. ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/util/parserregistry.java   (dtfj index builder ) (parser registry ) 552 552 552 552

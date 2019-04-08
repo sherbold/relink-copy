@@ -1,0 +1,1 @@
+269608 avoid locale sensitivity problems with upper/lower case ---- modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/testrunner.java   436 436 436 436

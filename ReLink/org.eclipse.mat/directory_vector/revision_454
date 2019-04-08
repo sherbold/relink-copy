@@ -1,0 +1,1 @@
+296826 detect cycles in weakhashmaps - build break ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/referencequery.java   (weak hash maps ) (reference query ) 454 454 454 454

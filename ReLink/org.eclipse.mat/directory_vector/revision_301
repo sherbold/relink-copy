@@ -1,0 +1,1 @@
+fix problem where multiple leak suspects from one accumulation point might get lost as the wrong was key used. ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/leakhunterquery.java   (leak hunter query ) 301 301 301 301

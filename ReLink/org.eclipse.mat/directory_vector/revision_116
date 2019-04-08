@@ -1,0 +1,1 @@
+recorded time is in nanoseconds, not ms (table's header changed) ---- modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/regression/testapplication.java   (test application ) 116 116 116 116

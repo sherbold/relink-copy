@@ -1,0 +1,1 @@
+improved error messages ---- modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/hprofparserhandlerimpl.java modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/parser.java modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/parser.java   (hprof parser handler impl ) 48 48 48 48

@@ -1,0 +1,1 @@
+229449: add memory dump button add quotes around the heap dump file name when executing jmap ---- modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/acquire/jmapheapdumpprovider.java   (j map heap dump provider ) 794 794 794 794

@@ -1,0 +1,1 @@
+323903 use display argument for jdt query instead of getworkbench().getdisplay ---- modified : /trunk/plugins/org.eclipse.mat.jdt/src/org/eclipse/mat/jdt/opensourcefilejob.java modified : /trunk/plugins/org.eclipse.mat.jdt/src/org/eclipse/mat/jdt/opensourcefilequery.java   (open source file job ) (open source file query ) 1026 1026 1026 1026

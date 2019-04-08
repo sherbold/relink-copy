@@ -1,0 +1,1 @@
+318989: delete erroneously committed /bin directory from o.e.m.jruby.resolver ---- deleted : /trunk/plugins/org.eclipse.mat.jruby.resolver/bin   982 982 982 982

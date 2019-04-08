@@ -1,0 +1,1 @@
+use icu not java.text for message formatting ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/jetty/jettynameresolvers.java   (jetty name resolvers ) 388 388 388 388

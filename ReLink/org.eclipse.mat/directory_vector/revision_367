@@ -1,0 +1,1 @@
+remove unnecessary object liveness checks during the reindexing of the outbound index  ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/garbagecleaner.java   (garbage cleaner ) 367 367 367 367

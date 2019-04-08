@@ -1,0 +1,1 @@
+support java.io.stringwriter in save to file ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/actions/exportinfo.java   (string writer ) (export info ) 135 135 135 135

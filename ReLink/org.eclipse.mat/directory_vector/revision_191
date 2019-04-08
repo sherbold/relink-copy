@@ -1,0 +1,1 @@
+[256155] inspector: find primitive arrays with a constant value ---- modified : /trunk/plugins/org.eclipse.mat.api/plugin.xml added : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/collections/primitivearrayswithaconstantvaluequery.java   (primitive arrays with a constant value query ) 191 191 191 191

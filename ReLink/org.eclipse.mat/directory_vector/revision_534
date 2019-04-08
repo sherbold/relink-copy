@@ -1,0 +1,1 @@
+269608 externalize strings and tag non-translated strings ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/browser/queryregistryprovider.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/util/errorhelper.java   (query registry provider ) (error helper ) 534 534 534 534

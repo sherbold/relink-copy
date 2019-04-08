@@ -1,0 +1,1 @@
+318989: proposal for extension: resolver for jruby  try to add the jruby extensions feature to the update site. ---- modified : /trunk/org.eclipse.mat.releng/features/allelements.xml modified : /trunk/org.eclipse.mat.releng/site/site.xml   927 927 927 927

@@ -1,0 +1,1 @@
+removed unnecessary leaking separator contribution to the tool bar ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/editor/multipaneeditorcontributor.java   (multi pane editor contributor ) 194 194 194 194

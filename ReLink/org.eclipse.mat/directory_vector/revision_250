@@ -1,0 +1,1 @@
+[246853] fixed snapshot outline page, fixed prefix of heap dumps w/o file extension ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/views/snapshotoutlinepage.java   (snapshot outline page ) 250 250 250 250

@@ -1,0 +1,1 @@
+avoid null pointer exception with phd dumps and latest imagepointer changes ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java   (image pointer ) (dtfj index builder ) 472 472 472 472

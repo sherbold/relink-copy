@@ -1,0 +1,1 @@
+add resolvers for java.lang.reflect.field method constructor and accessibleobject ---- modified : /trunk/plugins/org.eclipse.mat.api/plugin.xml modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/commonnameresolver.java   (accessible object ) (common name resolver ) 467 467 467 467

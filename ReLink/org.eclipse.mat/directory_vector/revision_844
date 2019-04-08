@@ -1,0 +1,1 @@
+bug 313923: copy-paste on a large set takes an extremely long time  change usage of stringbuffer to stringbuilder in the copy class ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/util/copy.java   (string buffer ) (string builder ) 844 844 844 844

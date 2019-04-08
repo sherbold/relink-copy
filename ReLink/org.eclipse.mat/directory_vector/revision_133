@@ -1,0 +1,1 @@
+call external java process via runtime.exec(string[]) to avoid problems with quotes on linux ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/report/internal/htmloutputter.java modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/regression/testapplication.java   (html outputter ) (test application ) 133 133 133 133

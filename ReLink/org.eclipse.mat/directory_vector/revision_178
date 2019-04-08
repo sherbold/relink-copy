@@ -1,0 +1,1 @@
+export to csv mangels percentage columns ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/report/internal/csvoutputter.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/viewer/exportactions.java   (csv outputter ) (export actions ) 178 178 178 178

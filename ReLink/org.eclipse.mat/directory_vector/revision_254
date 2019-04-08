@@ -1,0 +1,1 @@
+fix: save scroll position when expanding trees (e.g. dom tree) ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/viewer/refinedtreeviewer.java   (refined tree viewer ) 254 254 254 254

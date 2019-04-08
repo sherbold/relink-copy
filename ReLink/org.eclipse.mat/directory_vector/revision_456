@@ -1,0 +1,1 @@
+update help text for collections and gc roots queries ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/collections/annotations.properties modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/snapshot/inspections/annotations.properties   456 456 456 456

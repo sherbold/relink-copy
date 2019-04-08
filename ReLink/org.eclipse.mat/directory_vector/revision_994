@@ -1,0 +1,1 @@
+332853 change storing of ui plugin object for findbugs ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/memoryanalyserplugin.java   (find bugs ) (memory analyser plugin ) 994 994 994 994

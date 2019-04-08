@@ -1,0 +1,1 @@
+269608 avoid locale sensitivity problems with upper/lower case ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/oql/parser/oqlparser.java   (oql parser ) 434 434 434 434

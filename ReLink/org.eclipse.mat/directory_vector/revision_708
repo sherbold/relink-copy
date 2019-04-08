@@ -1,0 +1,1 @@
+229449 configure vminfo java.exe for ibm dumps ---- modified : /trunk/plugins/org.eclipse.mat.ibmdumps/src/org/eclipse/mat/ibmvm/acquire/ibmexecdumpprovider.java modified : /trunk/plugins/org.eclipse.mat.ibmdumps/src/org/eclipse/mat/ibmvm/acquire/ibmvminfo.java   (vm info ) (ibm exec dump provider ) (ibm vm info ) 708 708 708 708

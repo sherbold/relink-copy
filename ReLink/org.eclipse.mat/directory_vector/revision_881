@@ -1,0 +1,1 @@
+321463 stop bad mat://object link jumping to new page ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/panes/querytextresultpane.java   (query text result pane ) 881 881 881 881

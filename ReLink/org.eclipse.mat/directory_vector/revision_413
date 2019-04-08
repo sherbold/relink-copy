@@ -1,0 +1,1 @@
+changes to the itroubleticketresolver interface ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/leakhunterquery.java modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/snapshot/extension/itroubleticketresolver.java   (i trouble ticket resolver ) (leak hunter query ) (i trouble ticket resolver ) 413 413 413 413

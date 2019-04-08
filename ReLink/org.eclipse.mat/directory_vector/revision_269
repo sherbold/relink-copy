@@ -1,0 +1,1 @@
+[263148] fixed reading hprof if dump contains multiple dump images ---- modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/abstractparser.java modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/parser.java modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/parser.java   (abstract parser ) 269 269 269 269

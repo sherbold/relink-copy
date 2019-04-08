@@ -1,0 +1,1 @@
+[279527] remove jface dependency form chart feature completely -> possible problems when creating reports in batch mode ---- modified : /trunk/features/org.eclipse.mat.chart.feature/feature.xml   346 346 346 346

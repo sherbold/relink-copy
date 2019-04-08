@@ -1,0 +1,1 @@
+adjust packages in org.eclipse.mat.ui/plugin.xml which weren't renamed during refactoring ---- modified : /trunk/plugins/org.eclipse.mat.ui/plugin.xml   677 677 677 677

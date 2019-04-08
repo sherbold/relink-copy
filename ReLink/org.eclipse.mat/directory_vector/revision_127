@@ -1,0 +1,1 @@
+name resolver for stringbuffer and stringbuilder ---- modified : /trunk/plugins/org.eclipse.mat.api/plugin.xml modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/commonnameresolver.java   (string buffer ) (string builder ) (common name resolver ) 127 127 127 127

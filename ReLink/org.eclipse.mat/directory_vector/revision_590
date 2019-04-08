@@ -1,0 +1,1 @@
+fixed a problem introduced by revision 588 - some context menus on queries were missing ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/query/registry/querydescriptor.java   (query descriptor ) 590 590 590 590

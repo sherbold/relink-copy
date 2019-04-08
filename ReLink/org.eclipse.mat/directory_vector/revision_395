@@ -1,0 +1,1 @@
+avoid nullpointerexception with getclassesbyname when classes not found ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/osgi/model/equinoxbundlereader.java   (null pointer exception ) (equinox bundle reader ) 395 395 395 395

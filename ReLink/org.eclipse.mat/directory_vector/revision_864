@@ -1,0 +1,1 @@
+318635 avoid npe in history list if query is removed from system ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/browser/queryhistoryprovider.java   (query history provider ) 864 864 864 864

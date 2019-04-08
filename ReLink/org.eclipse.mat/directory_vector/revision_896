@@ -1,0 +1,1 @@
+318559 fix alignmentand order of columns when exporting a text tree or table ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/util/copy.java   896 896 896 896

@@ -1,0 +1,1 @@
+builds. null +++ this bug was initially created as a clone of <span class="bz_closed"><a href="show_bug.cgi?id=252801" title="resolved fixed - builds">bug #252801</a></span> +++  projects must have build process maturity: scripted, repeatable, and executable by others. we are using the pde build, so we fulfil the requirements. 257886 257886 257886 257886

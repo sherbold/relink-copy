@@ -1,0 +1,1 @@
+332853 remove public non-static field warning from findbugs in test code ---- modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/regression/regtestutils.java   (find bugs ) (reg test utils ) 989 989 989 989

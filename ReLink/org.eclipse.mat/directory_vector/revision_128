@@ -1,0 +1,1 @@
+enabled copy with ctrl-c in browser (html query result) ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/panes/querytextresultpane.java   (query text result pane ) 128 128 128 128

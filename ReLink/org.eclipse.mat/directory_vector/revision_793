@@ -1,0 +1,1 @@
+add the advice that the jdkhome parameter of the jmapvminfo is a directory ---- modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/acquire/jmapvminfo.java   (jmap vm info ) (jmap vm info ) 793 793 793 793

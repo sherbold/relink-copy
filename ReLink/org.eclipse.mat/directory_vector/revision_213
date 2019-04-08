@@ -1,0 +1,1 @@
+support multiple snapshots in query arguments ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/query/registry/argumentdescriptor.java modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/query/registry/argumentset.java   (argument descriptor ) (argument set ) 213 213 213 213

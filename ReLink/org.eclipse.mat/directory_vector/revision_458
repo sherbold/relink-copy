@@ -1,0 +1,1 @@
+try to avoid pde build clashes between compiler dtfj and dtfj plugin  ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/build.properties added : /trunk/plugins/org.eclipse.mat.dtfj/extrabuild.xml   458 458 458 458

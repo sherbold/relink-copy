@@ -1,0 +1,1 @@
+use icu not java.text for message formatting ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/meta-inf/manifest.mf modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjheapobjectreader.java modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java   (dtfj heap object reader ) (dtfj index builder ) 387 387 387 387

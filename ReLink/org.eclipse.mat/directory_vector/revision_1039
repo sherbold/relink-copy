@@ -1,0 +1,1 @@
+try to enable findbug reports again  use findbugs-maven-plugin  .2-snapshot to get rid of the problem reported here: http://jira.codehaus.org/browse/mfindbugs-122 ---- modified : /trunk/pom.xml   1039 1039 1039 1039

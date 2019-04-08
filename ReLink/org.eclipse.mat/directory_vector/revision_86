@@ -1,0 +1,1 @@
+removed unnecessary dependency on heapeditor ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/browser/queryhistoryhandler.java   (heap editor ) (query history handler ) 86 86 86 86

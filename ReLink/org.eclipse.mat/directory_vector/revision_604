@@ -1,0 +1,1 @@
+add bundle-requiredexecutionenvironment to org.eclipse.mat.ui.help manifest.mf ---- modified : /trunk/plugins/org.eclipse.mat.ui.help/meta-inf/manifest.mf   (required execution environment ) 604 604 604 604

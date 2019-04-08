@@ -1,0 +1,1 @@
+bug 229449: add memory dump button  update javadoc for iheapdumpprovider  ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/snapshot/acquire/iheapdumpprovider.java   (i heap dump provider ) (i heap dump provider ) 655 655 655 655

@@ -1,0 +1,1 @@
+rcp app need org.eclipse.ui.views.net to configure proxies ---- modified : /trunk/features/org.eclipse.mat.dependencies.feature/feature.xml   27 27 27 27

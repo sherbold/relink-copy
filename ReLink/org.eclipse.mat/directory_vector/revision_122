@@ -1,0 +1,1 @@
+[245410] print histogram of unreachable objects ---- added : /trunk/plugins/org.eclipse.mat.parser/.options modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/garbagecleaner.java   (garbage cleaner ) 122 122 122 122

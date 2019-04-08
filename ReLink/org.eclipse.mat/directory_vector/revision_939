@@ -1,0 +1,1 @@
+327433 add class loader tree view ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/classloaderexplorerquery.java modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/annotations.properties   (class loader explorer query ) 939 939 939 939

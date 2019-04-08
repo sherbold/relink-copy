@@ -1,0 +1,1 @@
+add pseudo pom to integrate w/ sonar via hudson build ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/query/column.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/util/querycontextmenu.java added : /trunk/pom.xml   (query context menu ) 259 259 259 259

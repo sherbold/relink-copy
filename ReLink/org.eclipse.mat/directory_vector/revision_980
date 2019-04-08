@@ -1,0 +1,1 @@
+318989: delete the bundle org.eclipse.mat.jruby this bundle was taking care of installing/uninstalling jruby into mat. it is now obsolete as no ruby runtime is needed any longer to extract the data. ---- deleted : /trunk/plugins/org.eclipse.mat.jruby   980 980 980 980

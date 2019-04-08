@@ -1,0 +1,1 @@
+318989: proposal for extension: resolver for jruby  change in the rcp plugin to allow the jruby preference page to be shown https://bugs.eclipse.org/bugs/show_bug.cgi?id=318989 ---- modified : /trunk/plugins/org.eclipse.mat.ui.rcp/src/org/eclipse/mat/ui/rcp/actions/openpreferenceaction.java   (open preference action ) 926 926 926 926

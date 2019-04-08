@@ -1,0 +1,1 @@
+improved error message for finalizer in component report (currently no ibm vm support) ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/component/componentreportquery.java   (component report query ) 210 210 210 210

@@ -1,0 +1,1 @@
+adding necessary files for test plugin ---- modified : /trunk/plugins/org.eclipse.mat.tests/.settings/org.eclipse.jdt.core.prefs modified : /trunk/plugins/org.eclipse.mat.tests/build.properties added : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/alltests.java added : /trunk/plugins/org.eclipse.mat.tests/test.xml   (all tests ) 74 74 74 74

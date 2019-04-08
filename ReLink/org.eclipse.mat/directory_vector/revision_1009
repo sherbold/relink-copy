@@ -1,0 +1,1 @@
+335047 add a query to copy oql associated with a selection ---- modified : /trunk/plugins/org.eclipse.mat.ui/plugin.xml added : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/actions/copyoql.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/actions/annotations.properties   (copy oql ) 1009 1009 1009 1009

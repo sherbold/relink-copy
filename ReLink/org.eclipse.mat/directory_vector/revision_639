@@ -1,0 +1,1 @@
+299371 update javadoc - also fix minor bug in hashmapobjectlong.remove ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/collect/hashmapobjectlong.java modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/collect/primitivemaptests.java   (hash map object long ) (hash map object long ) (primitive map tests ) 639 639 639 639

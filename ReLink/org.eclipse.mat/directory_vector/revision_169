@@ -1,0 +1,1 @@
+fix: take haslimit() into account ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/report/internal/csvoutputter.java   (csv outputter ) 169 169 169 169

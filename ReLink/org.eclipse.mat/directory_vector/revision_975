@@ -1,0 +1,1 @@
+329694 avoid error message in log if dtfj is not available ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/threaddetailsresolver.java   (thread details resolver ) 975 975 975 975

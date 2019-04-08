@@ -1,0 +1,1 @@
+229449  propose by default the user.home directory instead of an empty string for saving heap dumps ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/acquire/acquiredialog.java   (acquire dialog ) 717 717 717 717

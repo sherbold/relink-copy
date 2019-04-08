@@ -1,0 +1,1 @@
+java -jar -Xmx1400m ReLink.jar data/org.eclipse.mat/bugData.txt data/org.eclipse.mat/bugCommentData.txt data/org.eclipse.mat/changeLogs.txt org.eclipse.mat -g data/org.eclipse.mat/links.txt

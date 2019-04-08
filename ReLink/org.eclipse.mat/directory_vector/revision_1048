@@ -1,0 +1,1 @@
+269608 cope with babel pseudo-translation and category/command number ordering ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/query/registry/categorydescriptor.java modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/query/registry/querydescriptor.java   (category descriptor ) (query descriptor ) 1048 1048 1048 1048

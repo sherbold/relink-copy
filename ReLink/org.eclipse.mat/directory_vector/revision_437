@@ -1,0 +1,1 @@
+findbugs warnings - fix closing of streams ---- modified : /trunk/plugins/org.eclipse.mat.report/src/org/eclipse/mat/report/internal/resultrenderer.java   (find bugs ) (result renderer ) 437 437 437 437

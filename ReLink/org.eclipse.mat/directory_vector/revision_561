@@ -1,0 +1,1 @@
+303344 tests for: escape file names with spaces for create_report - also properly escape commands in history list ---- modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/alltests.java added : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/collect/commandtests.java   (all tests ) (command tests ) 561 561 561 561

@@ -1,0 +1,1 @@
+avoid possible integer overflow error ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/index/indexwriter.java   (index writer ) 369 369 369 369

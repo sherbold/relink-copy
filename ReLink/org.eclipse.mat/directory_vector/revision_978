@@ -1,0 +1,1 @@
+bug 318989: proposal for extension: resolver for jruby  remove references to the o.e.m.jruby.feature from the build files. the feature will be deleted and the plugin with the resolvers will be added to the org.eclipse.mat.feature. ---- modified : /trunk/org.eclipse.mat.releng/features/allelements.xml modified : /trunk/org.eclipse.mat.releng/site/site.xml   978 978 978 978

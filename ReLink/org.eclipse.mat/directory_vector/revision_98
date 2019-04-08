@@ -1,0 +1,1 @@
+fixed report frequency for small path calculations ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/snapshot/multiplepathsfromgcrootscomputerimpl.java   (multiple paths from gc roots computer impl ) 98 98 98 98

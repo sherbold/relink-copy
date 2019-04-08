@@ -1,0 +1,1 @@
+286410 ensure inspector pane follows mouse movement into pie slice ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/views/inspector/inspectorview.java   (inspector view ) 838 838 838 838

@@ -1,0 +1,1 @@
+improve performance when processing dumps with large object arrays ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java   (dtfj index builder ) 401 401 401 401

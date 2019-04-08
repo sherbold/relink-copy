@@ -1,0 +1,1 @@
+remove duplicate dump types from open heap dump dialog. ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/opensnapshot.java   (open snapshot ) 374 374 374 374

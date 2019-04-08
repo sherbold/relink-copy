@@ -1,0 +1,1 @@
+301357 allow getting of address for superclass nodes ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/snapshot/histogram.java modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/snapshot/histogramrecord.java   (histogram record ) 600 600 600 600

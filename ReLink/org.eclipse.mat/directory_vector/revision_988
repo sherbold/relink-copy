@@ -1,0 +1,1 @@
+332853 remove redundant comparison in oql operation ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/oql/compiler/operation.java modified : /trunk/plugins/org.eclipse.mat.tests/src/org/eclipse/mat/tests/snapshot/oqltest.java   (oql test ) 988 988 988 988

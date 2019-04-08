@@ -1,0 +1,1 @@
+fix: after changing the filter to show more elements, still only one (or a couple) of lines is shown ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/internal/viewer/refinedresultviewer.java   (refined result viewer ) 168 168 168 168

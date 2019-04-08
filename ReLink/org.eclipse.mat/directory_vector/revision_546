@@ -1,0 +1,1 @@
+269608 externalize strings and tag non-translated strings ---- modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/messages.java modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/parser.java modified : /trunk/plugins/org.eclipse.mat.hprof/src/org/eclipse/mat/hprof/messages.properties   546 546 546 546

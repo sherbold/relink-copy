@@ -1,0 +1,1 @@
+stop the dtfj adapter from always starting the mat parser plug-in. make dtfj more dynamic aware. ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/initdtfj.java   (init dtfj ) 371 371 371 371

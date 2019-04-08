@@ -1,0 +1,1 @@
+fix: sort heap dump types in open dialog, remove initial size of types list ---- modified : /trunk/plugins/org.eclipse.mat.parser/src/org/eclipse/mat/parser/internal/snapshotfactoryimpl.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/opensnapshot.java   (snapshot factory impl ) (open snapshot ) 275 275 275 275

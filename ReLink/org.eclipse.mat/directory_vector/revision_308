@@ -1,0 +1,1 @@
+change the groupbyvaluequery to return the already calculated portion of the result when the query is canceled ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/groupbyvaluequery.java   (group by value query ) (group by value query ) 308 308 308 308

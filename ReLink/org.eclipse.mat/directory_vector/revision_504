@@ -1,0 +1,1 @@
+fix bytes to bits pointer size conversion. ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjheapobjectreader.java   (dtfj heap object reader ) 504 504 504 504

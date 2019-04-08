@@ -1,0 +1,1 @@
+295603 cancel slow operations quicker ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/wasteinchararraysquery.java modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/snapshot/inspections/dominatorquery.java   (waste in char arrays query ) (dominator query ) 430 430 430 430

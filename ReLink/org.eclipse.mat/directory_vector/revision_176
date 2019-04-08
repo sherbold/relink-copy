@@ -1,0 +1,1 @@
+removed unused buildid (print only version of api bundle) ---- modified : /trunk/plugins/org.eclipse.mat.ui.rcp/src/org/eclipse/mat/ui/rcp/actions/versionintrocontentprovider.java   (version intro content provider ) 176 176 176 176

@@ -1,0 +1,1 @@
+make dtfj adapter use com.ibm.dtfj.api project in preference to jvm version of dtfj. ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/.classpath   505 505 505 505

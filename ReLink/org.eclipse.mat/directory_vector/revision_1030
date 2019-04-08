@@ -1,0 +1,1 @@
+332853 avoid url map/equals findbugs warning ---- modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/memoryanalyserplugin.java modified : /trunk/plugins/org.eclipse.mat.ui/src/org/eclipse/mat/ui/snapshot/actions/openiconassistaction.java   (memory analyser plugin ) (open icon assist action ) 1030 1030 1030 1030

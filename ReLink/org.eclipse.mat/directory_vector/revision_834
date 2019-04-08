@@ -1,0 +1,1 @@
+bug 312594: snapshotimpl instance kept by executionjob after closing the editor  removed usage of the "done" progress listener within classreferrersquery ---- modified : /trunk/plugins/org.eclipse.mat.api/src/org/eclipse/mat/inspections/classreferrersquery.java   (snapshot impl ) (execution job ) (class referrers query ) (class referrers query ) 834 834 834 834

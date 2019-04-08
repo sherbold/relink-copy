@@ -1,0 +1,1 @@
+add thread stack information and minor bug fixes/code clean up. ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjheapobjectreader.java modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java   (dtfj heap object reader ) (dtfj index builder ) 326 326 326 326

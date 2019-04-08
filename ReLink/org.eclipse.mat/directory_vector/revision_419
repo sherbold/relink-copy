@@ -1,0 +1,1 @@
+performance optimization for when javaclass.getmodifiers throws corruptdataexception ---- modified : /trunk/plugins/org.eclipse.mat.dtfj/src/org/eclipse/mat/dtfj/dtfjindexbuilder.java   (java class ) (corrupt data exception ) (dtfj index builder ) 419 419 419 419
